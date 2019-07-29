@@ -1,0 +1,1260 @@
+Emp_ID,Age,Gender,family_history,treatment,work_interfere,remote_work,benefits,wellness_program,seek_help,anonymity,mental_health_consequence,phys_health_consequence,coworkers,supervisor,mental_health_interview,phys_health_interview,mental_vs_physical,leave
+1000,37.0,Female,No,Yes,Often,No,Yes,No,Yes,Yes,No,No,Some of them,Yes,No,Maybe,Yes,Somewhat easy
+1001,44.0,Male,No,No,Rarely,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,Don't know
+1002,32.0,Male,No,No,Rarely,No,No,No,No,Don't know,No,No,Yes,Yes,Yes,Yes,No,Somewhat difficult
+1003,31.0,Male,Yes,Yes,Often,No,No,No,No,No,Yes,Yes,Some of them,No,Maybe,Maybe,No,Somewhat difficult
+1004,31.0,Male,No,No,Never,Yes,Yes,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,Don't know
+1005,33.0,Male,Yes,No,Sometimes,No,Yes,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,Don't know
+1006,35.0,Female,Yes,Yes,Sometimes,Yes,No,No,No,No,Maybe,Maybe,Some of them,No,No,No,Don't know,Somewhat difficult
+1007,39.0,Male,No,No,Never,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Don't know
+1008,42.0,Female,Yes,Yes,Sometimes,No,Yes,No,No,No,Maybe,No,Yes,Yes,No,Maybe,No,Very difficult
+1009,23.0,Male,No,No,Never,No,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,Don't know
+1010,31.0,Male,No,Yes,Sometimes,Yes,Don't know,No,No,Don't know,No,No,Some of them,Yes,No,No,Don't know,Don't know
+1011,29.0,Male,No,No,Never,Yes,Don't know,No,No,Don't know,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know
+1012,42.0,Female,Yes,Yes,Sometimes,No,Yes,No,No,Don't know,Yes,Yes,Yes,Yes,Maybe,Maybe,No,Somewhat difficult
+1013,36.0,Male,Yes,No,Never,No,Don't know,No,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,Don't know
+1014,27.0,Male,No,No,Never,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Yes,Yes,Somewhat easy
+1015,29.0,Female,Yes,Yes,Rarely,No,Yes,No,No,Don't know,No,No,Yes,Some of them,Maybe,Maybe,Don't know,Somewhat easy
+1016,23.0,Male,No,Yes,Sometimes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Maybe,No,Very easy
+1017,32.0,Male,No,Yes,Sometimes,No,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,No,Don't know
+1018,46.0,Male,Yes,No,Sometimes,Yes,Yes,Yes,Don't know,Yes,No,No,Yes,Yes,No,Yes,Yes,Very easy
+1019,36.0,Male,Yes,No,,Yes,No,Yes,No,Yes,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,Somewhat easy
+1020,29.0,Male,Yes,Yes,Sometimes,No,Yes,No,No,No,Maybe,No,Some of them,Some of them,No,No,No,Somewhat difficult
+1021,31.0,Male,No,No,Never,Yes,No,No,No,Yes,No,No,Some of them,Some of them,No,Maybe,Yes,Somewhat difficult
+1022,46.0,Male,No,Yes,Often,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,Don't know
+1023,41.0,Male,No,Yes,Never,No,Don't know,No,Don't know,Don't know,Maybe,No,No,No,No,Yes,Don't know,Don't know
+1024,33.0,Male,Yes,Yes,Rarely,No,Yes,Don't know,Yes,Yes,No,No,Yes,Yes,No,Yes,Don't know,Don't know
+1025,35.0,Male,Yes,Yes,Sometimes,No,Yes,No,Don't know,No,Yes,No,Some of them,Yes,No,Yes,No,Very easy
+1026,33.0,Male,No,No,,No,Don't know,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,Don't know
+1027,35.0,Female,Yes,Yes,Rarely,Yes,Yes,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,Don't know
+1028,34.0,Male,No,Yes,Sometimes,Yes,Don't know,No,Don't know,Don't know,No,No,Some of them,No,No,No,No,Somewhat difficult
+1029,37.0,Male,No,No,Sometimes,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,Maybe,No,Very difficult
+1030,32.0,Male,No,No,Never,Yes,No,No,No,Don't know,Yes,Yes,Some of them,Some of them,No,Maybe,No,Don't know
+1031,31.0,Male,Yes,No,Rarely,Yes,No,No,No,Don't know,Yes,No,No,No,No,No,No,Somewhat difficult
+1032,30.0,Male,Yes,Yes,Sometimes,Yes,Don't know,No,No,Yes,Maybe,No,Some of them,Yes,No,Yes,Don't know,Somewhat easy
+1033,42.0,Male,Yes,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,No,Some of them,Some of them,Maybe,Yes,Don't know,Very easy
+1034,40.0,Female,No,Yes,Sometimes,No,Yes,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Yes,Don't know
+1035,27.0,Male,No,Yes,Rarely,No,No,No,No,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,Very easy
+1036,29.0,Male,No,No,Rarely,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,Very easy
+1037,38.0,Male,No,No,,No,No,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,Somewhat easy
+1038,50.0,Male,No,No,,No,Yes,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,Don't know
+1039,35.0,Male,No,Yes,Rarely,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Maybe,Maybe,Yes,Very easy
+1040,24.0,Male,No,Yes,Sometimes,No,No,No,No,Don't know,Maybe,Maybe,Some of them,No,No,Yes,No,Don't know
+1041,35.0,Male,No,No,,Yes,Yes,Don't know,Yes,Don't know,Yes,Yes,Some of them,No,No,Maybe,Don't know,Somewhat difficult
+1042,27.0,Male,Yes,Yes,Sometimes,No,No,No,No,Yes,Maybe,No,Some of them,No,No,No,Yes,Very difficult
+1043,32.25182186234818,Male,No,No,Often,No,No,No,No,Don't know,Yes,Maybe,No,Some of them,No,No,No,Somewhat difficult
+1044,30.0,Male,No,Yes,Sometimes,No,Don't know,No,No,Don't know,No,No,No,No,No,Maybe,Don't know,Don't know
+1045,38.0,Female,Yes,Yes,Sometimes,No,Yes,No,Yes,Yes,No,No,Some of them,Yes,No,No,Yes,Somewhat easy
+1046,28.0,Male,No,No,,No,Don't know,No,No,Don't know,No,Maybe,Some of them,Yes,Maybe,Yes,Don't know,Don't know
+1047,34.0,Male,No,No,,No,No,No,No,Don't know,No,No,Yes,Yes,Maybe,Yes,Don't know,Don't know
+1048,26.0,Male,No,No,Sometimes,No,No,Yes,No,Don't know,No,No,Yes,Yes,No,No,Yes,Don't know
+1049,30.0,Male,Yes,Yes,Rarely,No,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,Don't know
+1050,22.0,Male,Yes,Yes,Often,No,No,No,No,Yes,Maybe,No,No,No,No,Maybe,Don't know,Very difficult
+1051,33.0,Male,No,No,,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,Don't know
+1052,31.0,Male,No,No,,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,Don't know
+1053,32.0,Male,No,No,Never,Yes,Don't know,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,Don't know
+1054,28.0,Male,No,No,,No,No,No,No,Don't know,No,No,No,No,No,Maybe,Don't know,Don't know
+1055,27.0,Male,Yes,Yes,Rarely,No,Yes,No,No,Yes,Maybe,No,No,No,No,No,Don't know,Don't know
+1056,32.0,Male,Yes,No,,Yes,Don't know,No,No,Don't know,No,No,Yes,Yes,No,No,Yes,Somewhat easy
+1057,24.0,Male,Yes,Yes,Sometimes,Yes,Don't know,No,No,Don't know,No,Maybe,Some of them,Yes,Yes,Yes,No,Don't know
+1058,26.0,Male,No,No,,No,No,No,No,Yes,No,No,Some of them,Yes,Maybe,Yes,Don't know,Somewhat easy
+1059,33.0,Male,Yes,Yes,Often,Yes,Don't know,No,No,No,Yes,No,No,No,No,Maybe,Don't know,Somewhat difficult
+1060,44.0,Male,Yes,Yes,Sometimes,No,Yes,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,Don't know
+1061,26.0,Female,No,Yes,Sometimes,Yes,Don't know,Yes,Yes,Yes,No,No,Yes,Yes,Maybe,Yes,Yes,Very easy
+1062,27.0,Male,No,No,Never,No,Yes,No,Yes,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,Somewhat easy
+1063,26.0,Male,No,No,,No,No,No,No,Don't know,Yes,No,No,No,No,No,No,Very easy
+1064,35.0,Male,No,No,Sometimes,No,Don't know,No,No,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,Somewhat easy
+1065,40.0,Male,Yes,No,Sometimes,Yes,Yes,Yes,Yes,Don't know,Yes,Maybe,Some of them,No,No,No,No,Don't know
+1066,23.0,Female,Yes,Yes,Often,Yes,No,No,No,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,Very easy
+1067,36.0,Male,No,No,Sometimes,Yes,Yes,Don't know,Yes,Don't know,Maybe,No,Some of them,Some of them,Maybe,Yes,Yes,Don't know
+1068,31.0,Female,No,No,,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,Don't know
+1069,34.0,Male,No,No,Rarely,Yes,No,No,No,Don't know,Maybe,No,Some of them,No,No,No,Don't know,Don't know
+1070,28.0,Male,No,No,Never,No,No,No,No,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,Don't know
+1071,34.0,Male,No,No,Never,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Somewhat easy
+1072,23.0,Others,No,No,Rarely,No,Yes,No,No,Yes,Maybe,No,Yes,Yes,No,No,No,Somewhat difficult
+1073,38.0,Male,No,No,,No,No,No,Don't know,Yes,No,No,Some of them,Yes,Maybe,Yes,Yes,Somewhat easy
+1074,33.0,Male,No,No,Never,No,Don't know,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Yes,Don't know
+1075,32.25182186234818,Male,No,No,,No,No,No,No,No,Yes,No,No,No,No,Maybe,No,Somewhat difficult
+1076,25.0,Male,No,No,,Yes,Yes,Yes,Yes,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,Don't know
+1077,31.0,Male,Yes,No,Sometimes,Yes,No,No,No,Yes,No,No,Yes,Yes,Maybe,Maybe,Yes,Somewhat difficult
+1078,32.0,Male,Yes,Yes,Sometimes,Yes,No,No,No,Don't know,Yes,No,Some of them,No,No,Yes,No,Somewhat difficult
+1079,28.0,Male,No,No,Never,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Yes,Yes,Very easy
+1080,38.0,Male,Yes,No,Sometimes,Yes,Yes,No,Yes,Don't know,No,No,Yes,Some of them,Maybe,Maybe,Yes,Don't know
+1081,23.0,Male,No,No,Never,No,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,Very easy
+1082,30.0,Male,No,No,Never,No,No,No,No,Don't know,No,No,Some of them,Yes,No,No,No,Don't know
+1083,27.0,Female,No,Yes,Often,Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,Very easy
+1084,33.0,Male,Yes,No,Never,No,No,No,No,Don't know,Yes,No,No,No,No,Maybe,No,Don't know
+1085,31.0,Male,No,No,,No,Don't know,No,No,Don't know,No,No,Some of them,Yes,Maybe,Maybe,No,Don't know
+1086,39.0,Male,No,Yes,Often,No,No,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,No,Very difficult
+1087,34.0,Female,Yes,Yes,Rarely,Yes,Yes,No,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,Don't know
+1088,29.0,Female,No,Yes,Sometimes,No,Yes,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,Don't know
+1089,32.0,Male,No,No,,No,Don't know,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Don't know
+1090,31.0,Male,No,No,Never,No,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,No,No,Yes,Somewhat easy
+1091,40.0,Male,No,Yes,Sometimes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Very difficult
+1092,34.0,Male,No,No,,No,Don't know,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,Somewhat easy
+1093,32.25182186234818,Male,No,No,,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Don't know,Somewhat easy
+1094,25.0,Female,No,Yes,Sometimes,No,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,Don't know
+1095,29.0,Male,No,No,Never,No,Don't know,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,No,Don't know
+1096,24.0,Male,Yes,No,Rarely,No,Don't know,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,Somewhat easy
+1097,31.0,Male,Yes,Yes,Sometimes,No,Don't know,No,No,Don't know,No,No,Some of them,Yes,Maybe,Yes,No,Don't know
+1098,33.0,Male,No,Yes,Sometimes,No,No,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,No,Somewhat easy
+1099,30.0,Male,No,Yes,Often,No,No,No,No,Yes,No,No,Yes,Yes,Maybe,Maybe,Yes,Somewhat easy
+1100,26.0,Female,Yes,Yes,Sometimes,No,No,No,No,No,Yes,No,No,No,No,Maybe,No,Very difficult
+1101,44.0,Female,No,No,Never,No,Yes,Don't know,Don't know,Don't know,Maybe,Maybe,No,Some of them,No,No,Don't know,Don't know
+1102,25.0,Male,Yes,No,,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Very easy
+1103,33.0,Male,Yes,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,Maybe,Maybe,Yes,Somewhat easy
+1104,29.0,Male,No,No,Never,No,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Somewhat easy
+1105,35.0,Male,Yes,No,Rarely,No,Yes,No,No,Yes,No,No,Some of them,Yes,No,No,Don't know,Somewhat easy
+1106,35.0,Male,Yes,Yes,Sometimes,Yes,Don't know,No,No,Don't know,No,No,Some of them,Yes,No,Maybe,No,Somewhat easy
+1107,28.0,Male,Yes,Yes,Rarely,No,No,No,No,No,Maybe,No,Yes,Yes,No,No,Don't know,Don't know
+1108,34.0,Male,Yes,No,Never,Yes,Yes,No,No,Don't know,Maybe,No,No,No,No,No,Don't know,Don't know
+1109,32.0,Male,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,No,Some of them,Yes,No,Maybe,Yes,Somewhat difficult
+1110,22.0,Male,No,Yes,Sometimes,No,Yes,No,Don't know,Yes,Yes,No,No,No,No,Yes,No,Don't know
+1111,28.0,Male,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,No,No,Some of them,Some of them,No,Maybe,Yes,Somewhat easy
+1112,45.0,Male,Yes,Yes,Rarely,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Very easy
+1113,32.0,Male,No,No,Never,No,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,Don't know
+1114,28.0,Male,No,No,,No,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,Don't know
+1115,26.0,Male,No,No,Never,No,Don't know,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Very easy
+1116,21.0,Male,No,No,Often,Yes,No,No,No,Yes,Yes,No,Some of them,Yes,No,Maybe,No,Very difficult
+1117,27.0,Male,No,No,Rarely,No,Yes,Yes,Yes,Yes,Maybe,No,Some of them,Yes,No,No,Don't know,Very easy
+1118,32.25182186234818,Male,No,Yes,Rarely,Yes,No,No,No,Yes,No,No,Some of them,No,No,No,Don't know,Very easy
+1119,35.0,Male,No,No,,Yes,Don't know,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,Don't know
+1120,29.0,Male,No,No,Never,No,Yes,No,Yes,Don't know,Yes,Yes,No,No,No,No,Don't know,Don't know
+1121,25.0,Male,No,No,,Yes,Don't know,No,No,Don't know,No,No,Some of them,Yes,No,No,Don't know,Very easy
+1122,33.0,Male,Yes,Yes,Sometimes,Yes,Don't know,Don't know,Don't know,Yes,No,No,Yes,Yes,No,Maybe,Yes,Very easy
+1123,36.0,Male,No,No,Often,No,Yes,No,No,Yes,Maybe,No,No,No,No,No,Don't know,Don't know
+1124,27.0,Male,No,Yes,Never,No,Yes,No,No,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,Very difficult
+1125,27.0,Male,Yes,No,Never,No,Yes,Yes,Yes,Yes,Yes,No,Some of them,No,No,Yes,Don't know,Don't know
+1126,27.0,Male,No,No,,No,No,No,No,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Don't know
+1127,32.0,Male,No,Yes,Rarely,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Don't know,Don't know
+1128,31.0,Male,Yes,No,Sometimes,No,No,No,No,Don't know,Maybe,Maybe,No,No,No,No,Yes,Somewhat easy
+1129,32.25182186234818,Male,No,Yes,Sometimes,No,Don't know,No,No,Don't know,Yes,Yes,Some of them,No,No,No,Don't know,Somewhat easy
+1130,33.0,Male,Yes,Yes,Sometimes,No,Yes,No,No,Don't know,Maybe,No,Yes,Some of them,No,Yes,No,Very easy
+1131,32.0,Male,No,No,Rarely,Yes,No,No,No,Don't know,Maybe,No,Yes,Some of them,No,Yes,Don't know,Very difficult
+1132,27.0,Male,No,No,Never,No,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,Don't know
+1133,38.0,Male,No,No,,Yes,No,No,No,Yes,No,No,Yes,Yes,Maybe,Yes,No,Somewhat easy
+1134,24.0,Male,No,Yes,Never,No,Don't know,No,No,Don't know,No,No,Some of them,Yes,Maybe,Yes,Don't know,Don't know
+1135,39.0,Male,No,No,Never,No,No,No,No,Don't know,Yes,Maybe,No,No,No,No,Don't know,Don't know
+1136,28.0,Male,No,No,Never,No,Don't know,No,No,Yes,No,No,Some of them,Yes,Maybe,Maybe,Yes,Very easy
+1137,39.0,Male,No,Yes,Often,No,Yes,No,No,Don't know,No,No,Yes,Yes,No,No,Don't know,Somewhat easy
+1138,29.0,Female,No,No,,No,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,Somewhat easy
+1139,22.0,Male,No,No,,Yes,Don't know,Don't know,No,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Somewhat easy
+1140,38.0,Male,Yes,Yes,Sometimes,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,Don't know
+1141,37.0,Male,No,Yes,Sometimes,No,No,Yes,Yes,Yes,Yes,Yes,Some of them,No,No,Maybe,Yes,Very difficult
+1142,35.0,Male,No,No,Never,Yes,Don't know,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,Don't know
+1143,32.25182186234818,Male,No,No,,Yes,Yes,Don't know,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,Don't know
+1144,30.0,Female,Yes,No,,Yes,Don't know,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Don't know
+1145,37.0,Male,Yes,Yes,Rarely,No,Yes,Yes,Yes,Don't know,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,Somewhat easy
+1146,24.0,Male,No,No,Never,No,No,No,No,Yes,Maybe,Maybe,No,Some of them,No,No,Don't know,Don't know
+1147,23.0,Male,No,No,Sometimes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Somewhat easy
+1148,30.0,Male,No,Yes,Rarely,No,No,Yes,Yes,Don't know,Yes,No,Some of them,No,No,No,No,Somewhat easy
+1149,29.0,Female,No,No,,Yes,Don't know,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,Don't know
+1150,32.25182186234818,Male,Yes,No,,Yes,Don't know,No,Yes,Yes,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,Somewhat easy
+1151,32.0,Male,Yes,No,Never,No,Don't know,No,No,Don't know,No,No,Some of them,Some of them,No,Maybe,No,Very easy
+1152,28.0,Male,No,No,Rarely,Yes,No,No,No,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,Don't know
+1153,36.0,Male,No,No,Never,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,Don't know
+1154,37.0,Male,Yes,Yes,Rarely,No,Yes,Yes,Yes,Yes,Yes,Maybe,Some of them,No,No,Yes,No,Somewhat difficult
+1155,25.0,Male,Yes,Yes,Sometimes,No,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,Somewhat difficult
+1156,27.0,Male,Yes,Yes,Sometimes,No,Don't know,No,Don't know,Don't know,No,No,No,Some of them,No,Maybe,Don't know,Don't know
+1157,26.0,Male,No,No,Often,No,Don't know,No,No,Don't know,Yes,Maybe,Some of them,Yes,No,Maybe,No,Don't know
+1158,27.0,Male,No,Yes,Rarely,Yes,No,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,Somewhat difficult
+1159,25.0,Male,Yes,Yes,Sometimes,No,Don't know,No,No,Don't know,Maybe,No,Some of them,No,No,No,Don't know,Very easy
+1160,36.0,Male,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Somewhat easy
+1161,25.0,Female,Yes,Yes,Sometimes,No,Yes,No,No,Don't know,Yes,Yes,Some of them,Some of them,No,No,Don't know,Don't know
+1162,31.0,Male,No,No,Never,No,Yes,No,Yes,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Don't know
+1163,26.0,Male,Yes,No,Rarely,No,Don't know,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,Don't know
+1164,33.0,Female,Yes,Yes,Sometimes,No,No,Yes,Yes,Yes,No,No,Some of them,Yes,No,Yes,Yes,Very difficult
+1165,27.0,Female,Yes,No,,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Maybe,Yes,Somewhat easy
+1166,34.0,Male,No,No,Never,No,No,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Very easy
+1167,42.0,Male,No,No,,No,No,No,No,Don't know,Maybe,No,Yes,Yes,No,Maybe,No,Very difficult
+1168,23.0,Male,Yes,No,Sometimes,No,No,No,No,Don't know,Yes,No,No,No,No,Maybe,No,Very difficult
+1169,24.0,Male,No,No,Rarely,No,Don't know,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Very easy
+1170,26.0,Male,No,Yes,Sometimes,No,Yes,Don't know,Don't know,Yes,No,No,Yes,Yes,No,No,Don't know,Somewhat easy
+1171,31.0,Male,No,Yes,Often,No,Don't know,No,No,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,Don't know
+1172,22.0,Male,No,Yes,Never,No,Don't know,No,No,Don't know,Yes,Maybe,No,No,Maybe,Maybe,No,Very difficult
+1173,23.0,Female,No,No,,No,Don't know,No,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,Don't know
+1174,34.0,Female,Yes,Yes,Sometimes,No,Yes,Yes,No,Don't know,No,No,Some of them,Yes,No,No,No,Somewhat easy
+1175,31.0,Male,No,No,Never,No,Don't know,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,Don't know
+1176,28.0,Male,No,No,,No,No,No,Yes,Yes,No,No,Some of them,Some of them,Maybe,Maybe,Yes,Somewhat easy
+1177,32.0,Female,No,Yes,Often,Yes,Yes,Don't know,Don't know,Yes,No,No,Yes,Yes,No,No,Yes,Very easy
+1178,45.0,Female,No,Yes,Sometimes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes,Somewhat difficult
+1179,33.0,Male,No,No,,Yes,Don't know,No,No,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,Very easy
+1180,29.0,Male,No,No,Never,Yes,No,No,No,No,Maybe,Maybe,No,Yes,Maybe,Yes,No,Don't know
+1181,26.0,Female,No,No,Sometimes,No,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Somewhat easy
+1182,28.0,Female,No,No,Never,No,Don't know,No,Don't know,Yes,No,No,Yes,Yes,Maybe,Maybe,Don't know,Somewhat easy
+1183,45.0,Male,No,Yes,Sometimes,No,Don't know,Don't know,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,No,Don't know,Don't know
+1184,43.0,Male,Yes,Yes,Often,Yes,Yes,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,No,Very difficult
+1185,37.0,Male,No,No,,Yes,Yes,No,No,Don't know,Yes,No,Some of them,No,Maybe,Yes,No,Don't know
+1186,24.0,Male,No,No,Sometimes,No,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,Somewhat easy
+1187,26.0,Male,No,No,,Yes,No,No,No,Don't know,No,No,Some of them,No,No,Maybe,Yes,Somewhat easy
+1188,23.0,Male,Yes,No,,Yes,Don't know,No,No,Don't know,No,No,Some of them,Yes,Maybe,Yes,Don't know,Don't know
+1189,35.0,Female,Yes,Yes,Never,No,Yes,Don't know,No,Yes,Maybe,No,No,No,No,No,Don't know,Somewhat easy
+1190,38.0,Female,Yes,Yes,Often,Yes,No,No,No,Yes,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Somewhat easy
+1191,28.0,Male,Yes,Yes,Sometimes,No,Yes,No,No,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,No,Somewhat easy
+1192,28.0,Male,No,No,Sometimes,No,No,No,No,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,Don't know
+1193,35.0,Male,No,Yes,Rarely,No,No,No,No,Yes,No,No,Some of them,Yes,No,No,Don't know,Don't know
+1194,32.0,Female,No,No,Sometimes,No,No,No,No,Don't know,Yes,Yes,Some of them,No,No,No,No,Very difficult
+1195,31.0,Male,Yes,No,Never,No,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Somewhat easy
+1196,35.0,Female,No,No,Never,Yes,Don't know,No,No,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,Don't know
+1197,26.0,Male,No,No,Rarely,No,Yes,No,No,Yes,No,No,Some of them,Yes,No,Maybe,No,Somewhat easy
+1198,27.0,Male,Yes,No,,Yes,Yes,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Yes,Somewhat easy
+1199,28.0,Male,Yes,Yes,Sometimes,No,Don't know,No,No,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,Don't know
+1200,27.0,Female,Yes,Yes,Sometimes,No,Yes,No,No,Don't know,No,No,Some of them,Some of them,No,No,Yes,Very easy
+1201,34.0,Female,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,No,Some of them,Yes,No,No,Yes,Somewhat easy
+1202,41.0,Male,No,Yes,Often,Yes,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,Very difficult
+1203,37.0,Male,No,No,Sometimes,No,No,No,No,Don't know,Yes,No,No,No,No,Yes,Don't know,Very difficult
+1204,34.0,Male,Yes,No,,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,Very easy
+1205,32.0,Male,Yes,Yes,Sometimes,Yes,Don't know,No,No,Don't know,Yes,Maybe,No,No,No,No,No,Somewhat difficult
+1206,21.0,Male,No,Yes,Sometimes,Yes,No,No,No,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Yes,Somewhat difficult
+1207,30.0,Male,No,Yes,Often,No,No,No,No,Yes,Maybe,No,Yes,Yes,No,Maybe,Don't know,Somewhat easy
+1208,24.0,Male,No,No,Never,No,Don't know,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Don't know
+1209,26.0,Male,No,No,,No,No,No,No,No,Yes,Maybe,No,No,No,Maybe,Don't know,Very easy
+1210,40.0,Female,No,No,,No,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,No,No,Yes,Somewhat easy
+1211,37.0,Male,Yes,No,Sometimes,No,No,No,No,Don't know,Yes,Maybe,Some of them,Yes,No,Maybe,Don't know,Don't know
+1212,26.0,Male,No,Yes,Often,Yes,No,No,No,Don't know,Yes,No,No,No,No,Maybe,Don't know,Don't know
+1213,32.0,Female,Yes,Yes,Sometimes,No,Don't know,No,No,No,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Don't know
+1214,32.0,Female,No,Yes,Sometimes,No,Yes,Don't know,Don't know,Yes,No,No,Yes,Yes,No,Yes,Yes,Very easy
+1215,27.0,Female,Yes,Yes,Sometimes,Yes,No,Don't know,Don't know,Don't know,No,No,Some of them,No,No,No,Don't know,Very difficult
+1216,30.0,Male,No,Yes,Often,Yes,Yes,No,No,Yes,No,No,Some of them,Yes,Maybe,Yes,Yes,Very difficult
+1217,31.0,Male,No,No,,No,Yes,No,Don't know,Yes,No,No,Some of them,Some of them,No,No,Yes,Very easy
+1218,29.0,Female,No,Yes,Never,No,Yes,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,Somewhat difficult
+1219,41.0,Male,No,No,,No,Yes,No,No,Don't know,Yes,No,No,Some of them,No,No,Don't know,Very easy
+1220,34.0,Female,No,No,,No,Yes,No,No,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,Somewhat easy
+1221,33.0,Male,No,No,,No,Don't know,No,No,Don't know,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know
+1222,28.0,Male,No,No,Rarely,No,Don't know,No,No,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,Don't know
+1223,28.0,Male,No,Yes,Sometimes,No,No,No,No,Yes,Yes,No,No,Some of them,No,No,No,Very difficult
+1224,23.0,Male,No,No,Never,No,Don't know,Don't know,Don't know,Don't know,No,No,No,Yes,No,Yes,Yes,Don't know
+1225,24.0,Male,No,No,,No,Don't know,Don't know,No,Yes,No,No,Yes,Yes,Maybe,Yes,Yes,Very easy
+1226,32.0,Male,No,No,Rarely,Yes,No,No,No,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,Very difficult
+1227,34.0,Male,No,No,Sometimes,Yes,Don't know,Yes,Yes,Don't know,Yes,Yes,No,No,No,Maybe,Yes,Somewhat difficult
+1228,24.0,Male,No,No,Never,No,Yes,No,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Maybe,Yes,Very easy
+1229,26.0,Male,No,Yes,Sometimes,No,No,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Yes,Don't know
+1230,36.0,Male,No,Yes,Sometimes,No,Yes,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Don't know
+1231,41.0,Male,No,Yes,Rarely,Yes,Yes,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,Maybe,Maybe,No,Don't know
+1232,38.0,Male,No,Yes,Sometimes,No,Don't know,Don't know,Don't know,Don't know,Yes,No,No,No,No,Maybe,No,Very difficult
+1233,38.0,Male,No,No,Sometimes,Yes,Don't know,No,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,No,Don't know
+1234,30.0,Male,No,No,,No,Don't know,Don't know,Don't know,Yes,No,No,Some of them,Some of them,No,No,Yes,Somewhat easy
+1235,25.0,Male,No,No,Never,No,No,No,No,Don't know,Yes,Maybe,No,No,No,Maybe,No,Somewhat difficult
+1236,37.0,Male,Yes,Yes,Often,No,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Don't know
+1237,34.0,Male,Yes,No,,No,No,No,No,Yes,No,No,Some of them,Yes,No,Yes,No,Somewhat difficult
+1238,37.0,Female,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Yes,No,No,Some of them,Some of them,No,Maybe,Yes,Somewhat easy
+1239,28.0,Female,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,No,No,No,Don't know
+1240,22.0,Male,No,No,,No,Don't know,No,No,Don't know,No,No,Some of them,Yes,Maybe,Maybe,No,Don't know
+1241,34.0,Male,Yes,Yes,Sometimes,No,No,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,Somewhat difficult
+1242,33.0,Male,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,No,No,Don't know,Somewhat easy
+1243,25.0,Male,No,No,,No,No,No,No,Yes,Maybe,No,Some of them,Yes,No,Yes,No,Somewhat difficult
+1244,27.0,Male,No,No,Never,Yes,Yes,Don't know,Don't know,Yes,No,No,Some of them,Yes,Maybe,Maybe,Yes,Somewhat easy
+1245,40.0,Male,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,No,No,No,Maybe,No,Don't know
+1246,21.0,Male,No,Yes,Often,No,Don't know,No,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,Don't know
+1247,29.0,Male,No,No,,No,No,No,No,Yes,No,No,Yes,Yes,Maybe,Yes,Yes,Very easy
+1248,32.0,Male,Yes,Yes,Sometimes,Yes,No,No,No,Don't know,Maybe,No,Yes,Yes,No,Yes,Don't know,Don't know
+1249,29.0,Female,Yes,Yes,Rarely,Yes,Yes,Yes,Don't know,Yes,Maybe,No,Some of them,No,Maybe,Yes,Don't know,Don't know
+1250,23.0,Male,Yes,Yes,Sometimes,Yes,Don't know,No,Don't know,Yes,Maybe,No,Some of them,Some of them,No,Yes,Yes,Somewhat easy
+1251,28.0,Male,Yes,No,,No,Yes,No,Don't know,Yes,No,No,Some of them,Yes,No,Maybe,Yes,Somewhat easy
+1252,31.0,Male,Yes,Yes,Rarely,Yes,Yes,Yes,Don't know,Yes,No,No,Some of them,Yes,No,Maybe,Yes,Very easy
+1253,27.0,Male,No,No,,No,Don't know,Don't know,Don't know,No,Maybe,Maybe,Yes,Yes,No,No,Don't know,Very easy
+1254,24.0,Male,No,No,Sometimes,No,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,Don't know
+1255,29.0,Male,No,No,Often,No,No,No,No,Don't know,Yes,No,No,No,No,Maybe,Don't know,Somewhat difficult
+1256,23.0,Female,No,Yes,Sometimes,No,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Yes,Don't know
+1257,42.0,Male,No,No,Never,Yes,No,No,Yes,Don't know,No,No,Some of them,Yes,No,No,Yes,Somewhat easy
+1258,24.0,Male,No,No,,No,No,No,No,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,Don't know
+1259,25.0,Male,Yes,Yes,Often,No,No,No,No,No,Yes,Maybe,No,No,No,Yes,No,Very difficult
+1260,27.0,Female,No,Yes,Rarely,No,Yes,No,No,Yes,Maybe,Maybe,Yes,No,No,Maybe,Don't know,Don't know
+1261,27.0,Male,No,No,Sometimes,Yes,No,No,No,No,Yes,Yes,Some of them,Some of them,No,Maybe,No,Very difficult
+1262,30.0,Male,No,Yes,Sometimes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Maybe,No,Yes,Don't know
+1263,29.0,Male,Yes,Yes,Rarely,No,No,No,No,Yes,Maybe,No,Some of them,Some of them,No,Yes,No,Very difficult
+1264,43.0,Male,No,No,,Yes,No,No,No,Don't know,Maybe,No,Yes,Yes,Yes,Yes,Don't know,Somewhat easy
+1265,32.0,Male,No,No,,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,Very easy
+1266,41.0,Male,No,Yes,Sometimes,Yes,Yes,Don't know,No,Don't know,No,No,Yes,Yes,Yes,Yes,Yes,Very easy
+1267,32.0,Male,Yes,Yes,Sometimes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Yes,Some of them,Maybe,Maybe,Don't know,Very easy
+1268,37.0,Female,Yes,Yes,Often,No,Yes,No,No,Yes,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Don't know
+1269,32.0,Male,No,No,Never,Yes,No,No,No,Don't know,No,No,Yes,Yes,No,No,Don't know,Very easy
+1270,30.0,Male,No,No,Sometimes,Yes,No,No,No,Don't know,No,No,Some of them,Some of them,No,Maybe,No,Somewhat difficult
+1271,23.0,Female,Yes,Yes,Never,No,Yes,Don't know,Don't know,Yes,No,No,Some of them,Yes,Maybe,Maybe,Yes,Don't know
+1272,30.0,Male,No,No,,No,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,No,No,Yes,Very easy
+1273,34.0,Male,No,No,Sometimes,No,No,No,No,Don't know,Maybe,Maybe,Yes,Some of them,No,No,Don't know,Somewhat easy
+1274,38.0,Male,No,Yes,Rarely,Yes,Yes,No,No,Don't know,Yes,No,No,No,No,Maybe,No,Don't know
+1275,33.0,Male,No,No,,No,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,No,No,Don't know,Don't know
+1276,34.0,Male,No,No,,No,Yes,No,No,Don't know,Maybe,No,Some of them,No,No,No,Don't know,Don't know
+1277,28.0,Male,No,No,Sometimes,No,No,No,No,Don't know,Maybe,Maybe,No,Some of them,No,No,Don't know,Somewhat easy
+1278,28.0,Male,No,Yes,Rarely,No,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,Very easy
+1279,23.0,Male,Yes,No,Sometimes,No,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,Don't know
+1280,22.0,Male,Yes,Yes,Sometimes,Yes,Don't know,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,No,Yes,No,Somewhat easy
+1281,27.0,Male,No,No,Never,No,No,No,No,Yes,Yes,No,No,No,No,Maybe,Don't know,Don't know
+1282,32.25182186234818,Male,No,Yes,Sometimes,No,Don't know,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,Don't know
+1283,35.0,Male,Yes,Yes,Sometimes,No,Yes,No,No,Yes,Yes,No,No,Some of them,No,Maybe,Don't know,Somewhat difficult
+1284,25.0,Male,No,No,,No,Don't know,No,No,Don't know,No,No,Some of them,Some of them,No,Yes,No,Don't know
+1285,27.0,Male,Yes,Yes,Sometimes,No,No,No,No,Yes,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Somewhat easy
+1286,26.0,Female,Yes,Yes,Rarely,No,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,Don't know
+1287,32.25182186234818,Male,No,No,Never,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Yes,Very easy
+1288,38.0,Female,No,Yes,Sometimes,No,No,No,No,Don't know,No,Maybe,Some of them,No,No,No,Don't know,Don't know
+1289,26.0,Female,Yes,Yes,Rarely,Yes,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,Somewhat easy
+1290,30.0,Male,No,No,Never,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,Somewhat easy
+1291,35.0,Male,No,No,Never,No,Don't know,No,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,Don't know
+1292,45.0,Male,Yes,Yes,Sometimes,No,Yes,Don't know,Don't know,Yes,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Don't know
+1293,32.0,Male,No,No,Never,No,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,Don't know
+1294,56.0,Male,No,Yes,Never,No,Yes,Don't know,Don't know,Don't know,No,Maybe,Yes,Some of them,No,Maybe,Don't know,Don't know
+1295,24.0,Female,No,No,,No,Don't know,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,No,Don't know
+1296,30.0,Female,Yes,Yes,Sometimes,No,Yes,Yes,Don't know,Don't know,No,No,Yes,Yes,No,Yes,Yes,Very easy
+1297,60.0,Male,No,No,,No,Yes,Don't know,Yes,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,Don't know
+1298,33.0,Male,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Yes,No,No,No,No,Maybe,Don't know,Don't know
+1299,37.0,Male,No,No,Never,No,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,Don't know
+1300,23.0,Female,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,No,No,Some of them,Some of them,No,No,Yes,Don't know
+1301,31.0,Female,No,Yes,Sometimes,No,Yes,Don't know,Don't know,Yes,No,No,Yes,Yes,No,No,Yes,Somewhat easy
+1302,26.0,Male,No,No,Rarely,No,Yes,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,Don't know
+1303,28.0,Female,Yes,Yes,Often,Yes,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,No,No,Yes,Somewhat easy
+1304,37.0,Female,No,Yes,Rarely,No,Yes,Don't know,Yes,Don't know,No,No,Some of them,Yes,No,No,Yes,Somewhat easy
+1305,26.0,Male,Yes,Yes,Often,No,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Maybe,Yes,Don't know
+1306,30.0,Female,Yes,Yes,Rarely,No,Yes,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,Somewhat easy
+1307,26.0,Male,No,No,,No,No,No,No,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Don't know
+1308,25.0,Male,No,No,,Yes,Don't know,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Don't know
+1309,27.0,Male,No,No,Sometimes,No,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,Don't know
+1310,25.0,Male,No,Yes,Often,Yes,Don't know,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,Somewhat difficult
+1311,35.0,Male,No,Yes,Rarely,No,Yes,Don't know,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,Don't know
+1312,36.0,Male,No,Yes,Never,No,No,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,Somewhat easy
+1313,26.0,Male,Yes,Yes,Sometimes,No,Yes,No,Don't know,Don't know,Yes,No,No,No,No,No,No,Don't know
+1314,27.0,Male,Yes,No,,No,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,Very easy
+1315,30.0,Male,No,No,,No,Don't know,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Don't know
+1316,29.0,Male,No,No,,No,Don't know,No,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,Don't know
+1317,25.0,Male,No,No,Never,No,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,Maybe,Maybe,Yes,Very easy
+1318,22.0,Female,Yes,Yes,Often,No,Yes,Yes,Yes,Yes,Maybe,No,No,Some of them,No,No,Yes,Somewhat easy
+1319,29.0,Male,No,No,,No,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Somewhat easy
+1320,41.0,Male,Yes,Yes,Rarely,Yes,Yes,Don't know,Yes,Yes,No,No,Some of them,Yes,Maybe,Maybe,Yes,Somewhat easy
+1321,29.0,Male,No,Yes,Sometimes,No,Yes,No,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,Don't know
+1322,32.0,Male,No,No,Never,No,Yes,Don't know,Yes,Yes,No,No,Some of them,Yes,Maybe,Maybe,Yes,Somewhat easy
+1323,24.0,Female,Yes,Yes,Sometimes,No,Yes,No,Yes,Yes,Maybe,No,Some of them,No,No,Maybe,Don't know,Don't know
+1324,25.0,Male,No,Yes,Rarely,No,Yes,Don't know,No,Don't know,Maybe,No,No,No,No,No,Don't know,Don't know
+1325,25.0,Male,No,No,,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,Don't know
+1326,30.0,Female,No,No,Never,No,Yes,Yes,Yes,Yes,Maybe,Maybe,No,Some of them,No,No,Don't know,Somewhat easy
+1327,25.0,Male,Yes,Yes,Sometimes,No,Don't know,Don't know,Yes,Don't know,No,No,Yes,Yes,No,No,Yes,Don't know
+1328,30.0,Male,No,No,Never,Yes,No,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Don't know
+1329,33.0,Male,Yes,Yes,Rarely,No,No,No,No,Don't know,Yes,Yes,No,No,Maybe,No,Yes,Somewhat difficult
+1330,24.0,Male,No,No,,No,Yes,Yes,Yes,Yes,No,No,Some of them,Some of them,No,Maybe,Yes,Very easy
+1331,25.0,Male,Yes,Yes,Sometimes,No,Yes,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,No,Don't know
+1332,31.0,Male,No,No,,No,Don't know,No,No,Yes,Maybe,No,No,No,No,Yes,No,Somewhat easy
+1333,45.0,Male,No,Yes,Often,No,No,No,No,Don't know,No,No,No,No,No,No,Don't know,Very difficult
+1334,29.0,Male,No,No,,Yes,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,No,Don't know
+1335,46.0,Male,No,No,Never,No,Yes,Yes,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,Very easy
+1336,30.0,Male,No,Yes,Sometimes,No,Don't know,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,Don't know
+1337,29.0,Female,No,No,Sometimes,No,Yes,Don't know,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Very easy
+1338,24.0,Male,No,No,,No,Yes,Don't know,Don't know,Yes,Yes,No,No,No,No,Maybe,Don't know,Don't know
+1339,29.0,Male,No,No,,No,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,No,Maybe,Yes,Very easy
+1340,35.0,Male,No,No,,No,Don't know,No,Don't know,Don't know,No,No,Yes,Yes,No,No,No,Don't know
+1341,33.0,Female,Yes,No,Sometimes,Yes,No,No,No,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Very difficult
+1342,27.0,Male,No,No,Sometimes,No,Don't know,Don't know,Don't know,Don't know,Yes,No,No,No,No,Maybe,No,Very easy
+1343,36.0,Male,No,No,,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,Don't know
+1344,33.0,Male,No,No,Rarely,Yes,Don't know,No,No,Don't know,Yes,Maybe,No,No,No,Maybe,No,Don't know
+1345,25.0,Female,Yes,Yes,Sometimes,No,Yes,No,No,Yes,No,No,Some of them,Yes,No,No,Don't know,Don't know
+1346,23.0,Male,Yes,Yes,Sometimes,No,Don't know,No,No,Don't know,No,No,Yes,Yes,Maybe,Yes,Don't know,Don't know
+1347,54.0,Male,Yes,Yes,Never,No,Don't know,Yes,Yes,Don't know,No,No,No,Yes,No,No,Don't know,Don't know
+1348,22.0,Male,No,No,Sometimes,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,Don't know
+1349,25.0,Others,Yes,Yes,Sometimes,No,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,Don't know
+1350,29.0,Male,No,No,Often,No,Don't know,No,No,Don't know,Maybe,No,Yes,Yes,Maybe,Maybe,Don't know,Don't know
+1351,27.0,Male,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Don't know
+1352,30.0,Male,No,No,Never,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,Very easy
+1353,26.0,Male,Yes,Yes,Often,No,Yes,Don't know,Yes,Don't know,Maybe,No,Some of them,No,No,No,Don't know,Don't know
+1354,25.0,Female,Yes,No,Sometimes,No,Yes,Yes,No,Don't know,No,No,Some of them,Yes,No,No,No,Somewhat easy
+1355,31.0,Male,No,Yes,Sometimes,No,No,No,Don't know,Yes,No,No,Some of them,No,No,No,No,Don't know
+1356,33.0,Male,Yes,Yes,Sometimes,No,Don't know,No,No,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,Don't know
+1357,34.0,Male,Yes,Yes,Sometimes,No,Yes,Don't know,Yes,Yes,Maybe,Maybe,No,No,No,No,Don't know,Don't know
+1358,34.0,Male,No,Yes,Sometimes,Yes,No,No,No,Don't know,Yes,Yes,Some of them,Some of them,No,Maybe,Don't know,Somewhat easy
+1359,29.0,Male,No,No,,Yes,No,No,No,Yes,No,No,Yes,Yes,Maybe,Maybe,Yes,Very easy
+1360,33.0,Female,No,No,,No,No,No,No,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,Somewhat difficult
+1361,34.0,Male,Yes,Yes,Rarely,Yes,No,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Yes,Somewhat difficult
+1362,26.0,Male,Yes,Yes,Rarely,Yes,No,No,Don't know,No,Maybe,No,Some of them,Yes,No,Yes,No,Don't know
+1363,32.0,Male,Yes,Yes,Rarely,No,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,No,Yes,Yes,Don't know
+1364,32.25182186234818,Male,No,Yes,Often,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,No,No,No,No,Don't know
+1365,28.0,Male,Yes,Yes,Sometimes,No,Don't know,No,Don't know,Don't know,Maybe,Maybe,No,No,No,No,No,Somewhat difficult
+1366,35.0,Male,Yes,No,,No,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,No,No,Don't know,Very easy
+1367,36.0,Male,Yes,Yes,Often,No,No,No,No,Yes,No,No,Some of them,Some of them,No,No,Don't know,Very easy
+1368,21.0,Male,Yes,Yes,Rarely,No,Yes,No,Don't know,Yes,No,No,Yes,Yes,Maybe,Maybe,Don't know,Don't know
+1369,21.0,Male,No,Yes,Sometimes,No,Don't know,No,No,No,Yes,No,Some of them,No,No,Maybe,No,Very easy
+1370,22.0,Female,No,No,,No,Yes,Yes,Yes,Yes,No,No,No,Some of them,No,No,Yes,Somewhat easy
+1371,41.0,Male,Yes,Yes,Often,No,Yes,Yes,Yes,Don't know,Maybe,No,Yes,Some of them,No,Maybe,No,Somewhat difficult
+1372,55.0,Male,Yes,Yes,Rarely,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Very easy
+1373,32.0,Female,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,No,Some of them,Yes,No,Maybe,Yes,Somewhat easy
+1374,21.0,Female,Yes,Yes,Rarely,No,Don't know,Don't know,No,Don't know,Yes,No,Some of them,No,No,Yes,Don't know,Somewhat easy
+1375,45.0,Male,No,Yes,Never,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,Don't know
+1376,27.0,Female,No,Yes,Rarely,No,Yes,No,No,Yes,Yes,Maybe,No,No,No,No,No,Don't know
+1377,25.0,Female,Yes,Yes,Sometimes,Yes,Don't know,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,Don't know
+1378,34.0,Female,Yes,Yes,Rarely,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Some of them,Some of them,No,No,Yes,Very difficult
+1379,26.0,Female,Yes,Yes,Never,No,Yes,No,Yes,Yes,Maybe,No,No,No,No,No,Don't know,Don't know
+1380,41.0,Male,No,Yes,Never,No,Yes,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Somewhat easy
+1381,27.0,Male,No,Yes,Rarely,No,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,No,Maybe,Yes,Don't know
+1382,31.0,Male,Yes,Yes,Sometimes,Yes,Yes,No,No,Don't know,No,No,Yes,Yes,No,No,Don't know,Don't know
+1383,25.0,Male,Yes,Yes,Often,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Somewhat easy
+1384,26.0,Male,No,Yes,Sometimes,No,Don't know,No,No,Don't know,Yes,Yes,Some of them,No,No,No,No,Don't know
+1385,27.0,Female,Yes,Yes,Rarely,Yes,Yes,No,Don't know,Don't know,Maybe,Maybe,No,Yes,No,No,Don't know,Don't know
+1386,42.0,Male,No,No,Never,No,Don't know,No,No,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,Don't know
+1387,29.0,Others,Yes,Yes,Sometimes,Yes,Yes,No,No,Don't know,Yes,No,Some of them,No,No,Maybe,No,Very difficult
+1388,25.0,Female,No,Yes,Sometimes,No,Don't know,No,No,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,Somewhat difficult
+1389,33.0,Female,Yes,Yes,Rarely,No,Yes,No,Yes,Yes,Maybe,No,Some of them,No,No,Yes,Don't know,Don't know
+1390,32.25182186234818,Others,Yes,Yes,Often,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Very difficult
+1391,40.0,Female,Yes,Yes,Rarely,No,Yes,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,No,No,Don't know,Somewhat easy
+1392,31.0,Male,No,No,Never,No,Don't know,No,Don't know,Don't know,Yes,No,Some of them,No,No,No,Don't know,Somewhat easy
+1393,26.0,Male,Yes,Yes,Often,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,Very easy
+1394,24.0,Female,Yes,No,,No,No,No,No,No,Yes,Maybe,No,No,No,Maybe,No,Very difficult
+1395,29.0,Male,No,No,Never,No,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,Don't know
+1396,48.0,Male,No,No,,No,Don't know,No,No,Don't know,Maybe,Maybe,No,No,No,No,No,Don't know
+1397,35.0,Male,No,No,Sometimes,No,No,No,No,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,No,Very difficult
+1398,32.0,Female,No,No,Never,No,Don't know,No,No,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,Don't know
+1399,29.0,Male,No,Yes,Sometimes,No,Don't know,Don't know,Don't know,Yes,Maybe,No,Some of them,Some of them,No,Maybe,Yes,Somewhat easy
+1400,26.0,Male,Yes,Yes,Often,No,Yes,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,No,Somewhat difficult
+1401,28.0,Male,Yes,Yes,Sometimes,No,Yes,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,No,Don't know
+1402,23.0,Male,No,No,,No,Don't know,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,No,Don't know
+1403,35.0,Male,Yes,Yes,Sometimes,No,Yes,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,Very difficult
+1404,29.0,Male,Yes,Yes,Sometimes,No,Don't know,No,No,Don't know,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,Very easy
+1405,26.0,Male,Yes,No,,No,Yes,No,Yes,Yes,No,No,Some of them,Yes,Maybe,Maybe,No,Very easy
+1406,33.0,Male,Yes,Yes,Never,Yes,Yes,Yes,Yes,Don't know,Yes,Maybe,Yes,Some of them,No,No,Yes,Don't know
+1407,33.0,Male,No,No,,Yes,Don't know,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Yes,Don't know
+1408,22.0,Male,No,No,Never,Yes,Don't know,No,No,Don't know,No,No,Yes,Yes,Maybe,No,Don't know,Somewhat easy
+1409,30.0,Female,Yes,No,,No,No,No,No,Don't know,Yes,Maybe,No,No,No,No,Don't know,Don't know
+1410,33.0,Male,Yes,Yes,Often,Yes,Yes,No,No,Don't know,Yes,No,No,No,No,No,No,Somewhat easy
+1411,31.0,Female,Yes,Yes,Rarely,No,Don't know,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,No,Very difficult
+1412,21.0,Male,Yes,No,Never,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,Don't know
+1413,31.0,Others,Yes,Yes,Sometimes,No,Don't know,No,No,Don't know,Yes,Maybe,No,No,No,Yes,Yes,Don't know
+1414,26.0,Female,No,Yes,Sometimes,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Yes,Somewhat difficult
+1415,30.0,Male,Yes,No,Often,No,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,Somewhat easy
+1416,30.0,Male,Yes,Yes,Sometimes,No,Don't know,No,No,Don't know,No,No,Yes,Yes,Maybe,Maybe,No,Somewhat difficult
+1417,23.0,Male,No,No,,No,No,No,No,Don't know,No,No,Some of them,Yes,Maybe,Maybe,No,Don't know
+1418,34.0,Male,No,No,Never,No,No,No,No,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,Somewhat easy
+1419,55.0,Male,Yes,Yes,Sometimes,Yes,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,No,Don't know
+1420,28.0,Male,Yes,Yes,Rarely,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes,Very easy
+1421,26.0,Male,No,No,,Yes,Don't know,Don't know,No,Don't know,No,No,Some of them,No,No,Yes,Don't know,Don't know
+1422,28.0,Male,Yes,Yes,Sometimes,Yes,Yes,Yes,No,Don't know,No,No,Yes,Yes,Yes,Yes,Yes,Very easy
+1423,32.0,Male,Yes,Yes,Sometimes,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Somewhat easy
+1424,28.0,Female,No,Yes,Rarely,No,Yes,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,Don't know
+1425,21.0,Male,No,No,Sometimes,No,Don't know,No,Yes,Yes,No,No,Some of them,Some of them,Maybe,Maybe,Yes,Don't know
+1426,24.0,Male,Yes,Yes,Sometimes,No,No,No,No,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,Somewhat difficult
+1427,26.0,Female,No,No,,No,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,Don't know
+1428,23.0,Male,No,No,,No,Yes,No,No,Don't know,No,No,Yes,No,No,Yes,Don't know,Don't know
+1429,24.0,Female,No,No,,No,Yes,Yes,Yes,Yes,No,No,Some of them,Some of them,Yes,Yes,Yes,Somewhat easy
+1430,28.0,Male,No,No,Never,Yes,Don't know,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,Somewhat easy
+1431,24.0,Female,Yes,Yes,Rarely,No,No,No,No,Don't know,Yes,No,No,Some of them,No,Yes,Yes,Very easy
+1432,33.0,Male,No,Yes,Often,Yes,No,No,No,Yes,Yes,Maybe,Some of them,Some of them,Yes,Yes,Don't know,Somewhat easy
+1433,34.0,Male,No,No,Sometimes,No,Don't know,No,No,Don't know,Maybe,No,Yes,Yes,No,Maybe,Don't know,Don't know
+1434,27.0,Female,No,Yes,Sometimes,No,Don't know,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Somewhat difficult
+1435,28.0,Male,No,No,Never,No,Don't know,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Don't know
+1436,26.0,Male,No,No,,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Don't know
+1437,20.0,Male,No,No,,Yes,Don't know,Don't know,Don't know,Yes,No,No,Some of them,Yes,No,No,Don't know,Very easy
+1438,23.0,Female,No,Yes,Sometimes,No,Yes,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,Don't know
+1439,29.0,Male,Yes,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Maybe,Maybe,Yes,Somewhat easy
+1440,26.0,Male,Yes,No,Sometimes,No,No,No,No,Don't know,Maybe,Maybe,No,No,No,Maybe,No,Don't know
+1441,36.0,Male,No,No,Rarely,Yes,Yes,Yes,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,Somewhat easy
+1442,41.0,Male,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,Don't know
+1443,33.0,Female,No,No,,Yes,Yes,Don't know,No,Don't know,No,No,Some of them,Yes,No,No,Yes,Don't know
+1444,23.0,Male,Yes,Yes,Sometimes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes,Very easy
+1445,39.0,Male,Yes,No,Often,No,Yes,No,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,Don't know
+1446,34.0,Male,Yes,No,,No,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Don't know
+1447,26.0,Female,No,Yes,Sometimes,No,Yes,No,No,Don't know,Yes,Maybe,Some of them,Some of them,No,No,No,Somewhat difficult
+1448,24.0,Male,No,Yes,Rarely,No,Yes,Yes,No,Don't know,No,No,Some of them,Yes,No,No,Don't know,Don't know
+1449,37.0,Male,Yes,Yes,Rarely,No,Yes,Yes,Yes,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Don't know
+1450,43.0,Male,Yes,Yes,Often,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Maybe,Maybe,Yes,Very easy
+1451,40.0,Others,Yes,No,Never,No,Yes,Yes,Don't know,Yes,Yes,Maybe,No,Some of them,No,Maybe,Yes,Don't know
+1452,30.0,Male,Yes,Yes,Often,No,Yes,Yes,No,Don't know,Yes,No,Some of them,No,No,No,No,Very difficult
+1453,34.0,Male,No,Yes,Sometimes,No,Don't know,No,No,Don't know,Yes,Yes,Some of them,No,No,No,Don't know,Don't know
+1454,27.0,Male,Yes,Yes,Sometimes,No,Don't know,No,Don't know,Don't know,Yes,No,No,No,No,Yes,Don't know,Don't know
+1455,36.0,Male,No,No,Sometimes,No,Don't know,No,No,Yes,No,No,Yes,Yes,Maybe,Yes,Don't know,Somewhat easy
+1456,27.0,Male,No,No,Rarely,No,No,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,Somewhat easy
+1457,35.0,Male,Yes,No,Never,No,Yes,No,No,Yes,Yes,No,No,No,No,Maybe,Don't know,Don't know
+1458,32.0,Male,No,No,Never,No,No,No,No,Don't know,Maybe,No,Some of them,No,No,Yes,Yes,Don't know
+1459,37.0,Male,No,No,,No,Yes,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Don't know
+1460,29.0,Male,No,No,,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,Don't know
+1461,33.0,Female,No,No,Never,No,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,Very easy
+1462,28.0,Male,No,No,Sometimes,Yes,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,Somewhat easy
+1463,26.0,Female,Yes,No,Never,No,Don't know,No,No,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,No,Somewhat difficult
+1464,27.0,Male,Yes,Yes,Sometimes,Yes,Don't know,Yes,Don't know,Don't know,Yes,No,Some of them,Yes,No,Maybe,Yes,Somewhat easy
+1465,38.0,Male,No,Yes,Sometimes,Yes,No,No,No,Yes,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,Somewhat easy
+1466,57.0,Male,Yes,Yes,Rarely,No,Yes,No,No,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,Don't know
+1467,28.0,Male,No,Yes,Sometimes,No,No,No,No,No,Yes,Maybe,No,Some of them,No,Maybe,No,Very difficult
+1468,26.0,Male,No,No,Never,No,No,No,No,Don't know,Maybe,No,Yes,Yes,Maybe,Maybe,No,Don't know
+1469,42.0,Female,No,Yes,Rarely,Yes,Yes,No,No,Yes,Yes,No,Some of them,No,No,Maybe,Don't know,Don't know
+1470,31.0,Male,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,No,No,Yes,Very easy
+1471,58.0,Male,No,Yes,Rarely,No,Yes,Yes,Yes,Yes,Maybe,No,Some of them,Yes,No,Yes,Yes,Somewhat easy
+1472,29.0,Male,No,No,Sometimes,No,Don't know,No,No,Don't know,Yes,No,No,No,No,Maybe,No,Very difficult
+1473,39.0,Female,No,Yes,Sometimes,No,Yes,No,Yes,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,Don't know
+1474,34.0,Male,No,No,Sometimes,Yes,Don't know,No,No,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,Very difficult
+1475,57.0,Male,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Maybe,Maybe,No,No,No,Maybe,Don't know,Don't know
+1476,27.0,Male,Yes,Yes,Sometimes,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,No,Somewhat difficult
+1477,23.0,Male,Yes,Yes,Often,Yes,Don't know,Don't know,Don't know,Don't know,No,Maybe,Yes,Yes,Maybe,Yes,Don't know,Don't know
+1478,32.25182186234818,Male,No,No,,Yes,Don't know,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,Very easy
+1479,30.0,Female,No,No,,No,Don't know,No,No,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,Don't know
+1480,23.0,Male,No,No,Never,No,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,Don't know
+1481,43.0,Male,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Maybe,No,No,No,Yes,Don't know,Somewhat easy
+1482,32.25182186234818,Female,Yes,Yes,Sometimes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,Don't know
+1483,29.0,Male,No,Yes,Rarely,No,Yes,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,Don't know
+1484,48.0,Male,No,No,Never,No,Don't know,No,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,Don't know
+1485,43.0,Male,No,Yes,Sometimes,No,No,Don't know,No,Don't know,Maybe,No,Some of them,Some of them,No,Yes,No,Somewhat easy
+1486,28.0,Female,Yes,Yes,Sometimes,No,Don't know,No,No,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,Don't know
+1487,30.0,Male,Yes,Yes,Often,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,Very easy
+1488,26.0,Male,No,No,Sometimes,No,No,No,No,Yes,Maybe,No,Some of them,Yes,No,Maybe,Yes,Very easy
+1489,33.0,Male,No,No,Never,No,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,Don't know
+1490,31.0,Male,No,No,,No,Yes,Don't know,Don't know,Yes,No,No,No,Some of them,No,No,Yes,Don't know
+1491,30.0,Male,No,No,Rarely,No,Don't know,No,No,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Don't know
+1492,27.0,Male,No,No,,No,No,No,No,Don't know,Yes,No,Some of them,No,No,Maybe,No,Somewhat difficult
+1493,24.0,Female,Yes,Yes,Sometimes,Yes,No,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Don't know
+1494,25.0,Male,No,No,,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,Don't know
+1495,23.0,Female,Yes,Yes,Often,No,Yes,Don't know,No,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,Don't know
+1496,36.0,Male,No,Yes,Sometimes,No,Yes,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,No,Somewhat difficult
+1497,25.0,Female,Yes,Yes,Often,Yes,Don't know,No,No,Yes,Yes,No,Some of them,No,No,Maybe,No,Somewhat difficult
+1498,54.0,Male,No,Yes,Sometimes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Maybe,Maybe,No,Very easy
+1499,34.0,Male,No,No,Rarely,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Yes,Somewhat easy
+1500,38.0,Female,No,Yes,,No,Yes,No,No,Yes,Maybe,Maybe,No,No,No,No,No,Don't know
+1501,40.0,Male,Yes,No,,No,No,No,No,No,Yes,Maybe,Some of them,No,No,Maybe,No,Don't know
+1502,32.0,Male,No,No,,No,No,No,Don't know,Don't know,No,No,No,Some of them,No,Maybe,Don't know,Don't know
+1503,25.0,Male,No,No,Never,No,Don't know,Don't know,Yes,Don't know,No,No,Yes,Yes,No,Yes,Don't know,Don't know
+1504,35.0,Female,No,Yes,Sometimes,No,No,No,No,Don't know,Yes,Maybe,No,No,No,Maybe,No,Don't know
+1505,46.0,Male,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,No,Yes,Don't know
+1506,42.0,Male,No,No,Never,No,Yes,Yes,No,Don't know,Maybe,No,Yes,Yes,Maybe,Yes,No,Very difficult
+1507,32.0,Male,Yes,Yes,Sometimes,Yes,Yes,No,No,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,Don't know
+1508,47.0,Male,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Yes,Yes,Very easy
+1509,22.0,Male,No,No,,No,Yes,Yes,Don't know,Yes,No,No,Some of them,Yes,No,Maybe,Yes,Don't know
+1510,33.0,Female,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Very easy
+1511,25.0,Female,No,No,Sometimes,No,No,No,No,No,Maybe,No,Some of them,No,No,No,Yes,Somewhat easy
+1512,29.0,Male,No,No,,No,Don't know,No,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,Don't know
+1513,39.0,Male,No,No,Never,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Very easy
+1514,38.0,Male,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Don't know
+1515,43.0,Male,No,No,,Yes,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,Don't know
+1516,46.0,Male,No,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,No,Maybe,Yes,Don't know
+1517,38.0,Female,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,No,Yes,Yes,No,No,No,Very easy
+1518,33.0,Male,No,Yes,Sometimes,No,Yes,No,No,Yes,Yes,Yes,Some of them,Some of them,No,Maybe,No,Very easy
+1519,34.0,Male,Yes,Yes,Often,No,No,No,No,Yes,Maybe,Maybe,Yes,Yes,No,No,No,Very easy
+1520,62.0,Male,No,No,Never,No,Yes,Don't know,Yes,Don't know,Maybe,No,Some of them,Yes,Maybe,Maybe,Yes,Don't know
+1521,23.0,Female,No,No,,No,Don't know,Don't know,Don't know,Yes,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Don't know
+1522,35.0,Male,No,No,,No,No,No,No,Don't know,Maybe,Maybe,No,No,No,No,No,Don't know
+1523,25.0,Male,Yes,No,Rarely,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,Yes,No,No,No,No,Don't know,Don't know
+1524,36.0,Male,Yes,Yes,Sometimes,Yes,Don't know,Don't know,No,Yes,Maybe,No,Some of them,Yes,No,Yes,Yes,Somewhat difficult
+1525,41.0,Female,Yes,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Some of them,Some of them,No,No,Yes,Very easy
+1526,24.0,Male,No,No,Sometimes,No,Yes,Don't know,Don't know,Yes,No,No,Some of them,Some of them,Maybe,Maybe,Yes,Somewhat easy
+1527,51.0,Male,No,Yes,Sometimes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Don't know,Somewhat difficult
+1528,29.0,Male,No,Yes,Sometimes,No,Yes,No,Yes,Yes,No,No,No,Some of them,No,No,Yes,Very easy
+1529,31.0,Female,Yes,Yes,Sometimes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Yes,Don't know
+1530,27.0,Male,No,No,,No,No,No,No,Don't know,No,No,Some of them,Yes,No,Yes,Don't know,Don't know
+1531,31.0,Male,No,Yes,Rarely,No,Yes,Yes,Yes,Don't know,No,No,Yes,Yes,Yes,Yes,No,Somewhat easy
+1532,27.0,Female,Yes,No,Sometimes,Yes,No,No,No,No,Yes,Maybe,No,No,No,Maybe,No,Very difficult
+1533,23.0,Male,No,No,Rarely,No,Don't know,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,Very easy
+1534,21.0,Male,No,No,Never,No,Don't know,Don't know,No,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,Don't know
+1535,27.0,Female,Yes,Yes,Sometimes,No,No,No,No,No,Yes,No,Some of them,Some of them,No,No,No,Somewhat difficult
+1536,39.0,Male,Yes,Yes,Often,Yes,Yes,Yes,Yes,Don't know,Yes,No,Some of them,Yes,No,No,No,Somewhat easy
+1537,26.0,Male,Yes,Yes,Never,No,Don't know,No,Don't know,Don't know,Maybe,No,No,No,No,No,No,Don't know
+1538,27.0,Male,No,No,Never,No,Don't know,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Don't know
+1539,22.0,Female,Yes,Yes,Sometimes,No,Yes,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,No,Don't know
+1540,26.0,Female,Yes,Yes,Often,No,Don't know,No,No,Don't know,Maybe,No,No,No,No,Maybe,No,Somewhat difficult
+1541,31.0,Female,Yes,Yes,Rarely,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes,Somewhat easy
+1542,32.0,Male,No,No,Never,No,Don't know,No,No,Don't know,No,No,Yes,Yes,Yes,Yes,Yes,Don't know
+1543,28.0,Female,Yes,Yes,Often,Yes,Yes,No,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,No,No,Don't know
+1544,28.0,Others,Yes,Yes,Rarely,No,No,No,No,Yes,Yes,Yes,Some of them,Some of them,Yes,No,No,Somewhat difficult
+1545,23.0,Female,No,No,,No,Don't know,No,No,Don't know,Maybe,No,No,Some of them,No,Yes,Yes,Very easy
+1546,30.0,Male,No,No,Never,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,Very easy
+1547,36.0,Male,Yes,Yes,Sometimes,No,Yes,No,Yes,Don't know,Yes,No,Some of them,Yes,No,Yes,No,Somewhat difficult
+1548,21.0,Male,Yes,No,,No,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,No,Maybe,Yes,Don't know
+1549,30.0,Male,No,No,Often,No,No,Don't know,No,Don't know,Maybe,No,Some of them,Some of them,Maybe,Yes,Don't know,Somewhat easy
+1550,25.0,Female,Yes,No,,No,Don't know,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Don't know
+1551,32.0,Male,No,Yes,Sometimes,No,No,No,No,Don't know,No,No,Some of them,Yes,Maybe,Yes,Don't know,Very easy
+1552,29.0,Female,No,Yes,Sometimes,No,No,No,No,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,Don't know
+1553,21.0,Others,No,Yes,Sometimes,No,No,Yes,No,Yes,Maybe,No,Some of them,Some of them,No,No,Yes,Somewhat easy
+1554,27.0,Female,Yes,Yes,Rarely,Yes,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,Yes,Don't know,Somewhat easy
+1555,32.0,Female,No,Yes,Often,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,Don't know
+1556,34.0,Male,No,No,Sometimes,No,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,No,Maybe,Yes,Very easy
+1557,33.0,Male,No,No,,No,Don't know,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,Don't know
+1558,22.0,Male,Yes,Yes,Sometimes,Yes,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Yes,Yes,Somewhat easy
+1559,24.0,Male,No,No,,No,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Yes,Don't know
+1560,65.0,Male,No,No,,Yes,No,No,No,Don't know,Maybe,No,Some of them,No,No,No,Yes,Very easy
+1561,27.0,Male,Yes,Yes,Sometimes,Yes,Don't know,No,Don't know,Don't know,No,No,Some of them,No,No,No,Yes,Don't know
+1562,33.0,Male,No,No,Never,No,Don't know,Don't know,Don't know,Yes,No,No,Some of them,Yes,Maybe,Yes,Yes,Very easy
+1563,36.0,Male,No,Yes,Rarely,No,Don't know,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Don't know
+1564,40.0,Male,No,No,Never,No,No,No,No,Don't know,No,No,Some of them,Some of them,No,No,No,Somewhat difficult
+1565,28.0,Male,No,Yes,Sometimes,No,Yes,No,No,Yes,Maybe,No,Some of them,No,No,Maybe,No,Somewhat difficult
+1566,39.0,Male,No,Yes,Sometimes,No,Yes,Yes,Don't know,Yes,Yes,Maybe,Yes,Yes,No,Maybe,Don't know,Don't know
+1567,32.0,Male,No,Yes,Sometimes,No,Yes,No,Yes,Don't know,No,No,Yes,Some of them,Maybe,Yes,Don't know,Somewhat easy
+1568,31.0,Male,Yes,No,Sometimes,No,Yes,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Yes,No,Somewhat easy
+1569,38.0,Male,Yes,Yes,Sometimes,No,Don't know,No,No,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,Don't know
+1570,23.0,Male,Yes,Yes,Rarely,No,No,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,Don't know
+1571,42.0,Male,No,Yes,Often,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes,Yes,Maybe,Maybe,Don't know,Somewhat easy
+1572,27.0,Female,No,No,Sometimes,No,Don't know,Don't know,Yes,Don't know,No,No,Some of them,Yes,No,No,Yes,Don't know
+1573,26.0,Female,Yes,Yes,Sometimes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,Somewhat difficult
+1574,50.0,Male,No,No,Never,Yes,No,No,No,Don't know,No,No,No,No,No,Maybe,No,Don't know
+1575,37.0,Male,Yes,No,Never,No,Don't know,No,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,Somewhat easy
+1576,23.0,Male,No,No,,No,Don't know,Don't know,No,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,Don't know
+1577,33.0,Male,Yes,No,Sometimes,Yes,Don't know,No,No,Yes,No,No,Some of them,Yes,No,No,Yes,Very easy
+1578,29.0,Male,No,No,Never,Yes,Yes,No,No,Yes,Yes,No,Some of them,No,No,Yes,No,Very difficult
+1579,34.0,Male,Yes,Yes,Sometimes,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Don't know
+1580,41.0,Male,Yes,Yes,Often,No,Yes,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Don't know
+1581,50.0,Male,Yes,No,,Yes,Don't know,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,Don't know
+1582,29.0,Male,No,Yes,Never,No,Yes,Yes,Yes,Yes,Maybe,No,Some of them,No,No,Maybe,Don't know,Somewhat difficult
+1583,35.0,Male,No,No,Never,No,No,No,No,Yes,No,No,Some of them,Yes,Maybe,Maybe,Yes,Very easy
+1584,27.0,Male,No,No,Sometimes,Yes,No,No,No,Yes,Yes,No,Some of them,Yes,No,No,No,Don't know
+1585,40.0,Female,No,No,Never,No,Don't know,No,No,Don't know,Maybe,Maybe,Yes,Yes,Maybe,Maybe,Don't know,Somewhat easy
+1586,27.0,Male,No,Yes,Often,Yes,No,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,No,Don't know
+1587,29.0,Female,No,No,Never,No,Yes,Yes,No,Yes,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Don't know
+1588,31.0,Male,Yes,Yes,Sometimes,No,No,No,No,Don't know,Maybe,No,Yes,Yes,No,Maybe,Don't know,Somewhat easy
+1589,43.0,Male,No,Yes,Sometimes,No,No,No,No,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,Somewhat easy
+1590,34.0,Male,Yes,Yes,Sometimes,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Don't know
+1591,29.0,Male,Yes,Yes,Sometimes,No,Don't know,No,No,No,Yes,No,Some of them,Some of them,No,Maybe,Don't know,Somewhat difficult
+1592,32.25182186234818,Male,Yes,Yes,Sometimes,No,No,No,No,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,Don't know
+1593,41.0,Male,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,No,Don't know
+1594,29.0,Male,Yes,No,Never,No,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,Don't know
+1595,23.0,Male,No,No,Rarely,No,Yes,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Yes,Don't know
+1596,24.0,Female,Yes,Yes,Sometimes,No,Yes,No,No,Don't know,Yes,Maybe,No,No,No,No,No,Somewhat difficult
+1597,31.0,Male,No,No,,Yes,Don't know,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,Don't know
+1598,43.0,Male,No,No,,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,Don't know
+1599,31.0,Male,Yes,Yes,Rarely,No,No,No,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,Somewhat difficult
+1600,29.0,Male,Yes,No,Often,No,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,Don't know
+1601,35.0,Male,Yes,No,,Yes,No,Yes,Yes,Don't know,No,No,Yes,Yes,No,Maybe,Yes,Very easy
+1602,33.0,Male,Yes,Yes,Sometimes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Somewhat difficult
+1603,30.0,Female,Yes,Yes,Often,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Somewhat difficult
+1604,27.0,Male,No,No,,No,Yes,Don't know,Don't know,Yes,Maybe,Maybe,No,No,No,Maybe,No,Don't know
+1605,32.0,Male,No,No,Sometimes,No,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,Don't know
+1606,50.0,Male,No,No,Sometimes,Yes,Don't know,No,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,Don't know,Don't know
+1607,24.0,Male,No,No,Never,No,Don't know,No,No,Don't know,Maybe,Yes,Some of them,No,No,Maybe,No,Don't know
+1608,27.0,Male,No,No,,No,Don't know,No,No,Don't know,No,No,Yes,Yes,No,Maybe,Yes,Don't know
+1609,27.0,Male,No,No,Never,Yes,No,No,No,Don't know,Yes,No,No,No,No,Maybe,Don't know,Don't know
+1610,32.0,Male,No,Yes,Sometimes,No,No,No,No,Yes,No,No,Some of them,Yes,Maybe,Maybe,Yes,Somewhat easy
+1611,42.0,Male,No,No,Rarely,Yes,No,No,No,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,Very easy
+1612,37.0,Male,No,No,Often,No,Don't know,No,No,Don't know,Maybe,No,Some of them,No,No,No,No,Don't know
+1613,30.0,Male,No,No,Sometimes,No,Don't know,No,No,Don't know,Maybe,No,Some of them,No,No,Yes,No,Somewhat easy
+1614,29.0,Male,No,No,Rarely,No,Yes,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,Very easy
+1615,30.0,Male,No,Yes,Often,Yes,No,No,Yes,Don't know,No,No,Yes,Yes,No,Maybe,Yes,Somewhat difficult
+1616,35.0,Male,No,No,Never,No,Yes,Yes,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Yes,Don't know
+1617,35.0,Male,Yes,Yes,Rarely,Yes,Yes,No,No,Yes,Yes,No,Some of them,No,No,Maybe,No,Very difficult
+1618,38.0,Male,Yes,No,Often,Yes,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,Don't know
+1619,22.0,Male,Yes,Yes,Sometimes,No,Yes,No,No,Yes,No,No,Some of them,Yes,Maybe,Yes,Yes,Very easy
+1620,24.0,Male,Yes,No,Sometimes,No,Don't know,No,No,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,Somewhat easy
+1621,22.0,Male,No,No,Never,No,Don't know,No,No,Don't know,No,Maybe,Some of them,Yes,Maybe,Yes,No,Don't know
+1622,31.0,Female,No,Yes,Often,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Very easy
+1623,23.0,Female,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Maybe,No,No,No,No,Don't know,Somewhat easy
+1624,31.0,Female,Yes,Yes,Sometimes,No,Don't know,No,No,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Don't know
+1625,28.0,Female,Yes,Yes,Rarely,No,Yes,Yes,Yes,Don't know,Maybe,No,No,Some of them,No,No,No,Somewhat difficult
+1626,37.0,Male,Yes,Yes,Sometimes,No,Yes,No,No,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Somewhat difficult
+1627,34.0,Male,Yes,Yes,Sometimes,No,No,No,No,Yes,No,No,Some of them,Some of them,No,No,No,Somewhat easy
+1628,32.0,Male,No,No,Sometimes,Yes,No,No,No,Yes,Yes,Maybe,Some of them,No,No,Maybe,No,Very difficult
+1629,28.0,Male,Yes,Yes,Sometimes,Yes,Yes,No,Don't know,Don't know,Yes,No,Some of them,Some of them,No,No,Don't know,Don't know
+1630,24.0,Female,No,Yes,Sometimes,No,No,No,No,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,Don't know
+1631,56.0,Male,Yes,Yes,Rarely,No,Yes,No,No,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,Don't know
+1632,31.0,Male,No,No,Sometimes,Yes,No,No,No,No,No,No,Yes,Yes,Maybe,Maybe,Yes,Very easy
+1633,34.0,Female,No,Yes,Sometimes,Yes,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,Somewhat easy
+1634,35.0,Male,No,Yes,Rarely,No,Don't know,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Yes,Very easy
+1635,28.0,Male,No,No,Never,No,No,No,No,Don't know,No,No,Some of them,Some of them,Yes,Yes,Don't know,Somewhat easy
+1636,36.0,Male,Yes,Yes,Often,No,No,No,No,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,Somewhat easy
+1637,30.0,Male,No,Yes,Often,No,No,No,No,Yes,No,No,Some of them,Yes,No,Maybe,Yes,Somewhat easy
+1638,35.0,Male,No,No,,Yes,Yes,No,No,Yes,No,No,Some of them,Yes,No,No,Yes,Very easy
+1639,49.0,Male,Yes,Yes,Sometimes,Yes,No,Yes,No,Don't know,Yes,Yes,No,No,No,No,No,Somewhat difficult
+1640,36.0,Male,No,No,,No,Yes,No,No,Yes,No,No,Some of them,Yes,Maybe,Maybe,Yes,Very easy
+1641,35.0,Male,No,No,,No,No,No,No,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,Very easy
+1642,29.0,Female,Yes,Yes,Sometimes,No,Yes,Yes,Yes,No,Yes,No,Some of them,Some of them,No,No,No,Somewhat difficult
+1643,57.0,Male,No,No,Never,No,Yes,No,Yes,Yes,Yes,Maybe,No,No,No,Maybe,Don't know,Somewhat difficult
+1644,31.0,Female,Yes,Yes,Rarely,No,Yes,No,No,No,Maybe,No,Some of them,No,No,No,Don't know,Don't know
+1645,37.0,Male,No,No,Never,No,No,No,No,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,Don't know
+1646,25.0,Male,Yes,Yes,Sometimes,No,No,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,Don't know
+1647,30.0,Male,No,No,Sometimes,No,No,No,No,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Very easy
+1648,26.0,Female,Yes,No,Sometimes,No,No,Yes,Yes,Don't know,No,No,Yes,Yes,No,No,Don't know,Somewhat easy
+1649,22.0,Female,No,No,Often,No,No,No,No,Don't know,No,No,No,Some of them,No,Yes,Don't know,Don't know
+1650,39.0,Male,No,No,Rarely,Yes,Don't know,Yes,Yes,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,Don't know
+1651,29.0,Male,Yes,Yes,Never,No,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,No,No,No,Don't know
+1652,54.0,Male,Yes,Yes,Sometimes,Yes,Don't know,No,No,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,Very easy
+1653,34.0,Female,Yes,No,Never,No,Don't know,Yes,Yes,Don't know,Yes,Maybe,No,No,No,No,Don't know,Don't know
+1654,32.0,Male,No,Yes,Never,No,Yes,Yes,Yes,Don't know,Maybe,No,No,No,No,No,Yes,Very easy
+1655,25.0,Male,No,No,,No,No,No,No,Don't know,Maybe,No,Yes,Yes,No,Yes,Don't know,Don't know
+1656,29.0,Male,No,No,Rarely,No,No,No,No,No,No,Maybe,Some of them,No,No,No,Yes,Somewhat difficult
+1657,32.0,Male,No,No,Never,Yes,No,No,No,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,Don't know
+1658,30.0,Male,Yes,Yes,Sometimes,No,Yes,No,Don't know,Yes,Maybe,No,Some of them,Yes,No,Yes,Yes,Don't know
+1659,31.0,Male,No,No,,No,Don't know,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,Somewhat easy
+1660,20.0,Female,No,No,Rarely,No,Yes,Yes,Yes,Yes,No,No,Some of them,Some of them,No,Maybe,Yes,Somewhat easy
+1661,27.0,Male,No,No,Never,No,Don't know,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,Don't know
+1662,32.0,Male,No,No,Never,No,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Don't know
+1663,26.0,Male,No,No,Never,Yes,No,No,No,Don't know,Maybe,No,Some of them,Yes,Maybe,Maybe,Yes,Somewhat difficult
+1664,30.0,Male,No,No,Sometimes,No,Don't know,No,No,Yes,No,No,Some of them,Some of them,No,No,Don't know,Very easy
+1665,30.0,Male,No,Yes,Sometimes,Yes,No,Don't know,No,Don't know,Maybe,Maybe,Some of them,No,No,No,No,Very difficult
+1666,22.0,Male,No,No,,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Yes,Very easy
+1667,24.0,Male,No,No,,No,Don't know,Don't know,Don't know,Don't know,No,No,No,No,No,No,Don't know,Don't know
+1668,26.0,Male,No,No,Never,No,No,No,No,Don't know,Maybe,Maybe,No,No,No,No,Don't know,Don't know
+1669,43.0,Male,No,No,,No,Don't know,No,No,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,Don't know
+1670,26.0,Male,No,No,Never,No,No,No,Don't know,Don't know,No,No,Some of them,No,No,Maybe,Don't know,Somewhat difficult
+1671,23.0,Male,Yes,No,Sometimes,No,Don't know,No,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,Don't know
+1672,26.0,Male,No,No,,Yes,Yes,Don't know,Yes,Don't know,No,No,Some of them,Some of them,No,No,Yes,Somewhat easy
+1673,26.0,Female,Yes,No,Never,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Yes,Don't know
+1674,35.0,Male,Yes,No,Sometimes,No,Don't know,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,Don't know
+1675,28.0,Male,No,Yes,Sometimes,Yes,Don't know,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,Don't know
+1676,22.0,Male,No,No,,No,No,No,No,Don't know,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,Don't know
+1677,29.0,Female,Yes,Yes,Rarely,No,Don't know,No,No,Don't know,Yes,No,No,No,No,No,Don't know,Don't know
+1678,29.0,Male,No,No,,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Very easy
+1679,45.0,Male,No,Yes,Often,Yes,Yes,No,Yes,Don't know,No,No,Yes,Yes,No,Maybe,Yes,Very easy
+1680,33.0,Male,No,Yes,Rarely,Yes,No,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Somewhat easy
+1681,38.0,Male,No,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,Don't know
+1682,32.25182186234818,Others,Yes,Yes,Often,No,Don't know,No,No,Don't know,Maybe,Maybe,No,No,No,Maybe,No,Somewhat difficult
+1683,29.0,Female,No,Yes,Rarely,Yes,Yes,Yes,Don't know,Yes,No,No,No,Yes,No,Maybe,Don't know,Somewhat easy
+1684,21.0,Female,No,No,,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,Don't know
+1685,23.0,Female,Yes,Yes,Sometimes,No,Don't know,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,Don't know
+1686,33.0,Female,Yes,Yes,Rarely,No,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,No,No,Yes,Somewhat easy
+1687,49.0,Male,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Some of them,Yes,No,No,Yes,Somewhat easy
+1688,28.0,Male,No,No,,Yes,Don't know,No,No,Don't know,Maybe,No,Some of them,No,No,No,Don't know,Don't know
+1689,27.0,Female,No,Yes,Sometimes,Yes,Don't know,Yes,Don't know,Yes,No,No,Yes,Yes,Maybe,Maybe,Yes,Very easy
+1690,23.0,Male,No,Yes,Sometimes,No,Yes,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Somewhat easy
+1691,29.0,Male,No,No,Never,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Maybe,Yes,Somewhat easy
+1692,30.0,Male,No,No,,No,Don't know,No,Don't know,Yes,No,No,Some of them,No,Maybe,Maybe,Don't know,Somewhat easy
+1693,28.0,Female,No,No,,No,Yes,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Somewhat easy
+1694,32.0,Male,No,No,,No,No,No,No,Don't know,Yes,No,No,No,No,Yes,No,Don't know
+1695,32.0,Male,No,Yes,Sometimes,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Very easy
+1696,37.0,Male,No,No,,No,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,Somewhat easy
+1697,39.0,Female,No,No,,Yes,No,No,No,Don't know,Yes,Maybe,No,No,No,Maybe,No,Very difficult
+1698,31.0,Male,No,No,,No,Don't know,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Yes,Don't know
+1699,29.0,Male,No,No,,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,Somewhat difficult
+1700,30.0,Male,No,No,,No,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,Don't know
+1701,33.0,Male,Yes,Yes,Rarely,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Very difficult
+1702,37.0,Male,Yes,Yes,Sometimes,No,Yes,Don't know,Don't know,Yes,Maybe,No,Yes,Yes,No,No,Don't know,Don't know
+1703,23.0,Male,No,Yes,Often,No,Yes,Yes,No,Yes,No,No,Some of them,Yes,No,Maybe,Yes,Somewhat easy
+1704,43.0,Male,Yes,Yes,Sometimes,No,Yes,No,Yes,Don't know,Yes,No,No,No,No,No,No,Somewhat easy
+1705,32.0,Male,No,Yes,Rarely,No,Don't know,No,No,Don't know,Maybe,No,Yes,Yes,No,Maybe,No,Don't know
+1706,26.0,Male,No,No,Never,No,Don't know,No,No,Don't know,Yes,Yes,Some of them,No,No,No,No,Don't know
+1707,32.0,Male,No,Yes,Sometimes,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Don't know,Very easy
+1708,37.0,Female,No,No,,Yes,Don't know,No,Don't know,Don't know,Yes,No,Some of them,No,No,No,Don't know,Don't know
+1709,29.0,Male,No,Yes,Often,No,Yes,No,No,Yes,No,No,Yes,Yes,Maybe,Maybe,Yes,Very easy
+1710,34.0,Male,No,No,,No,No,No,No,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,Don't know,Somewhat easy
+1711,27.0,Male,No,No,,No,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,Don't know
+1712,30.0,Male,Yes,No,Never,No,Don't know,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,Very easy
+1713,29.0,Male,No,No,Never,No,Yes,No,Yes,Yes,Maybe,No,Some of them,Some of them,No,No,No,Don't know
+1714,32.0,Male,Yes,Yes,Sometimes,Yes,Yes,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,No,Very difficult
+1715,32.25182186234818,Male,No,Yes,Sometimes,No,No,No,No,Don't know,Yes,No,No,No,No,Maybe,Don't know,Somewhat difficult
+1716,25.0,Male,No,No,,No,Yes,Don't know,Yes,Yes,Maybe,Maybe,Some of them,Yes,Yes,Yes,Yes,Somewhat easy
+1717,37.0,Male,No,No,,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Maybe,Maybe,Yes,Somewhat easy
+1718,29.0,Male,Yes,No,,No,No,No,No,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,Very easy
+1719,27.0,Male,No,No,,No,Yes,No,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,Don't know
+1720,33.0,Male,No,No,,No,Don't know,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Don't know
+1721,30.0,Male,Yes,Yes,Sometimes,No,Don't know,No,No,No,Yes,No,Some of them,No,No,Yes,No,Very difficult
+1722,29.0,Male,No,No,,Yes,No,No,No,Don't know,Maybe,Maybe,Yes,Yes,No,Maybe,Don't know,Somewhat difficult
+1723,25.0,Male,Yes,Yes,Never,Yes,Don't know,Yes,Don't know,Don't know,Yes,No,Some of them,Yes,No,No,No,Don't know
+1724,33.0,Male,Yes,Yes,Sometimes,No,No,No,No,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,Don't know
+1725,31.0,Male,No,No,Never,Yes,No,No,No,No,No,No,Some of them,Some of them,No,Maybe,No,Don't know
+1726,21.0,Male,No,No,Rarely,Yes,Don't know,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,Very easy
+1727,30.0,Male,Yes,Yes,Sometimes,No,Don't know,No,No,No,Yes,Yes,No,No,No,No,No,Very difficult
+1728,29.0,Male,No,No,,No,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,No,Don't know
+1729,43.0,Male,No,Yes,Sometimes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,Maybe,No,Very difficult
+1730,37.0,Male,No,Yes,Often,No,No,No,No,Don't know,Yes,No,Yes,Yes,Maybe,Yes,No,Don't know
+1731,24.0,Male,No,No,,No,No,Yes,No,Don't know,Maybe,No,Yes,Some of them,No,No,Don't know,Don't know
+1732,29.0,Male,No,No,,Yes,Don't know,No,No,Don't know,No,No,Yes,Yes,No,No,Don't know,Very easy
+1733,31.0,Male,No,No,,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Don't know,Don't know
+1734,32.25182186234818,Male,No,No,,No,Don't know,No,No,Don't know,No,No,Yes,Yes,No,No,Yes,Somewhat easy
+1735,33.0,Male,No,No,Never,No,No,No,No,Don't know,No,No,Yes,Some of them,No,Yes,No,Very easy
+1736,43.0,Male,No,No,,No,Yes,Don't know,Yes,Yes,No,No,Some of them,Yes,No,Maybe,Don't know,Don't know
+1737,33.0,Male,No,Yes,Sometimes,No,Don't know,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,Don't know
+1738,27.0,Male,No,No,,No,No,No,Yes,Yes,Maybe,No,Yes,Some of them,No,Yes,Yes,Don't know
+1739,36.0,Male,Yes,Yes,Sometimes,Yes,Don't know,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,Don't know
+1740,37.0,Male,Yes,Yes,Sometimes,No,No,No,No,Yes,No,No,Some of them,Yes,No,Maybe,Yes,Very easy
+1741,32.0,Male,No,No,,No,No,No,No,Don't know,Yes,Maybe,No,No,No,No,No,Very difficult
+1742,39.0,Male,No,Yes,Sometimes,No,No,No,No,Don't know,No,No,No,Some of them,No,Yes,Yes,Very easy
+1743,31.0,Male,Yes,Yes,Sometimes,No,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,Don't know,Somewhat easy
+1744,36.0,Male,No,Yes,Sometimes,Yes,Yes,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,Very difficult
+1745,30.0,Male,No,Yes,Sometimes,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Yes,Don't know,Don't know
+1746,28.0,Male,No,No,,No,Yes,No,Don't know,Yes,No,No,Some of them,Yes,Maybe,Maybe,Yes,Very easy
+1747,32.0,Male,No,No,,No,No,No,No,No,Maybe,No,Some of them,No,Maybe,Maybe,No,Somewhat difficult
+1748,35.0,Male,Yes,Yes,Rarely,No,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,No,No,Yes,Very easy
+1749,32.25182186234818,Male,No,Yes,Sometimes,No,Don't know,No,No,Don't know,No,No,Some of them,Yes,No,Yes,Don't know,Somewhat difficult
+1750,33.0,Male,Yes,No,,No,Yes,No,No,Don't know,No,No,Some of them,Yes,No,No,Don't know,Very easy
+1751,42.0,Male,No,No,,Yes,Don't know,Yes,Yes,Yes,No,No,Some of them,No,No,Maybe,Yes,Very easy
+1752,37.0,Male,Yes,Yes,Sometimes,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,Don't know
+1753,40.0,Male,No,No,Never,No,No,No,No,Yes,No,No,Some of them,Yes,Maybe,Maybe,Yes,Very easy
+1754,36.0,Male,No,No,Never,No,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,No,No,Yes,Very easy
+1755,29.0,Female,Yes,Yes,Sometimes,Yes,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,Don't know
+1756,38.0,Female,Yes,Yes,Sometimes,No,Yes,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,Don't know
+1757,26.0,Male,Yes,Yes,Sometimes,No,Yes,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,No,Somewhat difficult
+1758,34.0,Male,No,No,Rarely,No,No,No,No,Yes,Maybe,Maybe,No,Some of them,Maybe,Maybe,Yes,Somewhat easy
+1759,21.0,Male,No,Yes,Often,No,No,No,No,No,Yes,No,Some of them,Some of them,No,Yes,No,Don't know
+1760,31.0,Male,Yes,No,Sometimes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Somewhat easy
+1761,37.0,Female,Yes,Yes,Rarely,No,Yes,Yes,Yes,Don't know,Maybe,Maybe,Yes,Some of them,No,Maybe,Yes,Don't know
+1762,37.0,Male,Yes,Yes,Sometimes,No,No,No,No,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,Very easy
+1763,38.0,Male,Yes,Yes,Sometimes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Very difficult
+1764,27.0,Female,No,Yes,Sometimes,No,Don't know,Yes,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,No,Somewhat easy
+1765,39.0,Male,No,No,,No,No,Yes,No,Yes,No,No,Some of them,Yes,Maybe,Maybe,Yes,Somewhat easy
+1766,33.0,Female,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Yes,Some of them,No,No,No,No,Somewhat easy
+1767,27.0,Male,No,No,Never,No,Don't know,No,Don't know,Don't know,No,No,Some of them,No,Yes,Yes,Don't know,Somewhat easy
+1768,36.0,Female,No,Yes,Never,Yes,Yes,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,Don't know
+1769,28.0,Male,No,No,Never,No,Don't know,No,No,Don't know,No,No,Some of them,Yes,Maybe,Yes,Don't know,Somewhat easy
+1770,39.0,Male,No,Yes,Sometimes,No,Don't know,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Don't know
+1771,33.0,Male,Yes,Yes,Sometimes,Yes,No,No,No,Yes,Maybe,Maybe,Yes,Yes,No,No,Yes,Very easy
+1772,32.0,Male,No,No,,No,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Don't know
+1773,28.0,Male,No,No,,No,Don't know,No,Don't know,Don't know,No,No,Some of them,Some of them,Yes,Yes,No,Don't know
+1774,37.0,Male,Yes,Yes,Rarely,No,No,No,No,Yes,Yes,No,Some of them,Yes,No,Maybe,No,Somewhat easy
+1775,39.0,Male,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,No,Maybe,No,Very easy
+1776,43.0,Male,No,No,Sometimes,Yes,Don't know,No,Don't know,Don't know,Maybe,No,No,No,No,Maybe,No,Don't know
+1777,32.0,Others,No,Yes,Sometimes,No,Don't know,Yes,Yes,Don't know,No,No,Yes,Some of them,Yes,Yes,Yes,Don't know
+1778,27.0,Female,No,No,,No,Don't know,No,Yes,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,Don't know
+1779,31.0,Female,No,No,,No,Don't know,No,No,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,Don't know
+1780,43.0,Male,No,Yes,Never,No,Don't know,No,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know
+1781,33.0,Male,No,Yes,Sometimes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Don't know,Somewhat difficult
+1782,34.0,Male,Yes,Yes,Sometimes,No,Don't know,Don't know,Don't know,Yes,No,No,Some of them,Yes,No,Maybe,Yes,Very easy
+1783,33.0,Male,No,No,,No,Don't know,No,No,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,Don't know
+1784,25.0,Male,No,No,,No,Don't know,No,No,Don't know,No,No,Some of them,Yes,No,No,Don't know,Don't know
+1785,25.0,Male,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,No,Some of them,Some of them,No,No,No,Don't know
+1786,32.0,Male,Yes,No,,No,No,No,No,Yes,No,No,No,Yes,No,Maybe,No,Somewhat easy
+1787,25.0,Male,Yes,Yes,Sometimes,No,Yes,Don't know,Don't know,Yes,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Don't know
+1788,37.0,Male,No,No,,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,Somewhat easy
+1789,39.0,Male,No,Yes,Never,No,Yes,Yes,Yes,Yes,No,No,Some of them,Some of them,No,Maybe,Yes,Somewhat easy
+1790,29.0,Male,No,No,Rarely,No,Don't know,No,No,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,Somewhat easy
+1791,33.0,Male,No,Yes,Sometimes,No,Yes,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Don't know
+1792,37.0,Female,No,Yes,Often,Yes,Don't know,No,No,Yes,Yes,No,Some of them,Some of them,No,Yes,No,Somewhat difficult
+1793,35.0,Female,No,Yes,Sometimes,No,Yes,No,No,Yes,Yes,Maybe,No,Some of them,No,Yes,No,Very difficult
+1794,22.0,Female,Yes,Yes,Sometimes,No,Don't know,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Very difficult
+1795,38.0,Male,No,No,Never,No,Yes,No,No,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,Somewhat easy
+1796,32.0,Female,Yes,Yes,Often,No,Yes,No,Don't know,Don't know,Yes,No,Some of them,Yes,No,No,Don't know,Don't know
+1797,28.0,Male,No,No,,No,Don't know,No,No,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,No,Don't know
+1798,27.0,Male,Yes,No,,No,No,No,No,Don't know,Maybe,No,Some of them,Yes,No,Yes,No,Don't know
+1799,35.0,Female,No,Yes,Sometimes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Yes,Very easy
+1800,29.0,Male,No,No,Never,No,Yes,Yes,No,Yes,Yes,Maybe,Yes,Yes,No,Maybe,Don't know,Very easy
+1801,23.0,Male,Yes,Yes,Sometimes,No,No,No,No,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,Very easy
+1802,39.0,Male,No,No,,Yes,Yes,No,No,Don't know,Yes,Maybe,No,No,No,No,Don't know,Don't know
+1803,30.0,Female,No,No,,No,Yes,Yes,Yes,Yes,No,No,Some of them,No,No,No,Yes,Very easy
+1804,32.0,Male,No,No,,No,Don't know,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,Somewhat easy
+1805,28.0,Others,No,Yes,Sometimes,No,No,No,No,Don't know,Yes,Maybe,Some of them,Some of them,No,No,No,Somewhat difficult
+1806,40.0,Female,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,No,Some of them,Yes,No,No,Don't know,Don't know
+1807,36.0,Female,Yes,No,,No,Don't know,No,Don't know,Don't know,No,No,No,Some of them,No,Maybe,Yes,Don't know
+1808,27.0,Male,No,No,,Yes,Don't know,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,Very easy
+1809,41.0,Male,Yes,No,Sometimes,No,Yes,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,Don't know
+1810,29.0,Male,No,No,Never,No,Don't know,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,Don't know
+1811,29.0,Male,No,Yes,Sometimes,No,No,No,No,Don't know,No,No,Some of them,Some of them,No,Maybe,No,Somewhat difficult
+1812,35.0,Male,No,Yes,Often,No,No,No,No,Yes,Yes,No,Some of them,Some of them,No,Yes,No,Very difficult
+1813,28.0,Male,No,Yes,Never,Yes,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Don't know
+1814,36.0,Female,No,No,Sometimes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,Don't know
+1815,39.0,Female,No,No,Sometimes,No,Don't know,No,Don't know,Don't know,Yes,No,No,No,No,Yes,Don't know,Don't know
+1816,39.0,Male,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,No,Some of them,Yes,No,No,Don't know,Very difficult
+1817,44.0,Male,Yes,Yes,Sometimes,Yes,No,No,No,No,Yes,Yes,Some of them,No,No,No,Yes,Very easy
+1818,26.0,Others,No,Yes,Sometimes,Yes,No,Yes,Yes,Yes,No,No,Some of them,Some of them,Maybe,Maybe,Yes,Very easy
+1819,35.0,Male,Yes,Yes,Often,No,No,Yes,No,Don't know,No,No,Some of them,Some of them,Maybe,Yes,Yes,Somewhat easy
+1820,40.0,Female,Yes,Yes,Sometimes,No,Yes,Yes,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,Don't know
+1821,35.0,Male,Yes,Yes,Often,No,No,Yes,No,Don't know,No,No,Some of them,Some of them,Maybe,Yes,Yes,Somewhat easy
+1822,38.0,Male,No,No,Never,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Don't know,Very difficult
+1823,34.0,Male,No,No,,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,Don't know
+1824,43.0,Male,No,No,,No,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,Don't know
+1825,48.0,Female,Yes,No,Often,No,Don't know,No,No,No,Yes,Yes,No,Some of them,No,No,No,Very difficult
+1826,20.0,Male,No,No,Never,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,Don't know
+1827,40.0,Male,No,No,Sometimes,Yes,Don't know,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,Somewhat easy
+1828,29.0,Female,No,Yes,Rarely,No,Don't know,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,Don't know
+1829,35.0,Male,Yes,Yes,Sometimes,No,No,No,No,Yes,No,No,Some of them,Yes,No,No,Yes,Don't know
+1830,29.0,Male,Yes,No,Sometimes,Yes,Yes,No,Yes,Yes,Maybe,No,Some of them,No,No,No,Yes,Very easy
+1831,40.0,Male,No,No,Never,No,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Don't know
+1832,29.0,Male,No,Yes,Rarely,No,No,No,No,Yes,No,No,Some of them,Yes,No,No,Yes,Very easy
+1833,29.0,Female,Yes,Yes,Rarely,No,Yes,Don't know,No,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,Don't know
+1834,34.0,Male,No,Yes,Sometimes,No,No,No,No,Don't know,Yes,No,No,No,No,Yes,Don't know,Don't know
+1835,44.0,Male,Yes,Yes,Sometimes,No,Don't know,No,No,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,Somewhat difficult
+1836,24.0,Female,Yes,Yes,Often,No,Yes,No,No,Yes,No,No,Some of them,Yes,No,Yes,No,Very easy
+1837,47.0,Female,No,No,,Yes,Don't know,No,Don't know,Don't know,Yes,Yes,No,No,No,No,No,Very difficult
+1838,43.0,Male,Yes,No,,No,Don't know,No,No,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,Very easy
+1839,36.0,Male,No,No,Rarely,No,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,No,No,No,Somewhat difficult
+1840,43.0,Male,No,Yes,Sometimes,No,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,Very difficult
+1841,36.0,Male,No,No,Sometimes,Yes,No,No,No,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,Somewhat difficult
+1842,31.0,Female,Yes,Yes,Sometimes,No,Yes,No,No,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,Somewhat difficult
+1843,35.0,Male,No,No,Sometimes,No,Don't know,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,Don't know
+1844,33.0,Male,Yes,No,,No,Yes,No,No,Yes,No,No,Some of them,Some of them,No,No,Don't know,Somewhat difficult
+1845,37.0,Male,No,No,Sometimes,No,Don't know,Don't know,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,Don't know
+1846,34.0,Male,No,Yes,Sometimes,No,Don't know,Yes,Don't know,Yes,Maybe,No,Some of them,No,No,No,Don't know,Don't know
+1847,36.0,Male,No,Yes,Sometimes,No,No,No,No,Don't know,No,No,Yes,No,No,No,Yes,Very easy
+1848,40.0,Male,Yes,Yes,Sometimes,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,Very easy
+1849,40.0,Male,No,No,Rarely,No,Yes,Yes,Yes,Yes,No,No,Some of them,Some of them,No,Maybe,Don't know,Don't know
+1850,42.0,Male,No,Yes,Sometimes,Yes,No,No,No,Don't know,Maybe,No,No,No,No,Maybe,Don't know,Somewhat easy
+1851,23.0,Male,Yes,No,,Yes,Yes,No,Don't know,Yes,Maybe,No,No,Some of them,No,No,Don't know,Don't know
+1852,21.0,Male,Yes,No,Never,No,No,No,No,Yes,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Somewhat easy
+1853,26.0,Male,No,No,Sometimes,Yes,No,No,No,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,Don't know,Very difficult
+1854,31.0,Male,Yes,No,,No,Don't know,No,No,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,Don't know
+1855,25.0,Male,Yes,No,,No,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,Maybe,Yes,Yes,Very easy
+1856,51.0,Male,No,No,Never,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Very easy
+1857,24.0,Male,No,No,,No,Don't know,Don't know,No,Yes,No,No,Some of them,Yes,No,Maybe,Don't know,Somewhat easy
+1858,33.0,Male,No,No,,No,No,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,No,Don't know
+1859,32.0,Male,Yes,Yes,Rarely,No,No,No,No,No,Yes,Maybe,Some of them,No,No,No,No,Don't know
+1860,32.0,Male,Yes,Yes,Rarely,No,No,No,No,No,Yes,Maybe,Some of them,No,No,No,No,Don't know
+1861,26.0,Male,No,Yes,Rarely,Yes,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,Somewhat difficult
+1862,23.0,Male,No,No,Never,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,Don't know
+1863,33.0,Male,Yes,Yes,Often,Yes,No,No,No,Don't know,Yes,No,Some of them,Yes,No,Maybe,No,Very difficult
+1864,46.0,Male,No,Yes,Rarely,No,Yes,Yes,Yes,Yes,Yes,Maybe,No,No,No,Maybe,Yes,Somewhat easy
+1865,34.0,Male,No,No,,Yes,No,No,No,No,Yes,Maybe,No,No,No,Yes,No,Somewhat difficult
+1866,35.0,Male,Yes,Yes,Sometimes,No,Yes,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Somewhat easy
+1867,39.0,Male,No,No,,Yes,No,No,No,Don't know,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,No,Very difficult
+1868,32.0,Male,No,No,Sometimes,Yes,No,No,No,Yes,No,No,Some of them,Some of them,Maybe,Maybe,No,Somewhat easy
+1869,43.0,Male,No,No,,Yes,Don't know,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,Don't know
+1870,56.0,Male,No,Yes,Rarely,Yes,Yes,Don't know,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy
+1871,32.0,Female,Yes,Yes,Sometimes,No,Don't know,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Somewhat difficult
+1872,41.0,Male,No,No,,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Some of them,Some of them,No,Yes,No,Don't know
+1873,39.0,Male,No,No,,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Don't know
+1874,37.0,Male,Yes,No,,No,Yes,No,No,Yes,Maybe,No,No,No,No,No,No,Very easy
+1875,30.0,Male,Yes,Yes,Sometimes,Yes,Don't know,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,Very difficult
+1876,31.0,Male,No,No,,No,Yes,Yes,No,Yes,Maybe,No,Some of them,Some of them,No,Maybe,No,Somewhat easy
+1877,29.0,Male,No,No,,No,Don't know,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,Don't know
+1878,23.0,Female,Yes,No,Never,No,No,No,Yes,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,Somewhat easy
+1879,31.0,Male,No,Yes,Never,No,Yes,No,Don't know,Yes,Maybe,No,No,No,No,No,Don't know,Very easy
+1880,29.0,Male,Yes,Yes,Sometimes,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,Don't know
+1881,30.0,Male,No,No,Never,Yes,Yes,Don't know,Don't know,Yes,No,No,Some of them,Yes,Maybe,Maybe,Yes,Very easy
+1882,37.0,Male,No,No,Never,Yes,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,Don't know
+1883,36.0,Male,No,No,Never,No,Yes,No,Don't know,Don't know,No,No,Some of them,Yes,Yes,Yes,Yes,Somewhat difficult
+1884,35.0,Male,Yes,Yes,Sometimes,Yes,Yes,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,No,Don't know
+1885,41.0,Male,Yes,No,Never,Yes,Don't know,No,No,Don't know,Maybe,No,No,No,No,No,Don't know,Don't know
+1886,31.0,Male,No,Yes,Rarely,No,Don't know,No,No,Don't know,No,No,Some of them,Yes,No,No,Don't know,Don't know
+1887,38.0,Male,Yes,No,,No,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,No,Somewhat easy
+1888,26.0,Male,No,No,,No,No,No,No,Yes,No,No,Some of them,Yes,No,No,Yes,Very easy
+1889,39.0,Male,Yes,No,Sometimes,No,Yes,Yes,Yes,Don't know,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,Don't know
+1890,42.0,Male,Yes,No,Sometimes,Yes,Yes,Don't know,Yes,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,Don't know
+1891,32.0,Male,Yes,Yes,Rarely,Yes,No,No,No,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,Very difficult
+1892,29.0,Male,Yes,No,,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Don't know
+1893,30.0,Male,Yes,No,Never,No,Yes,Don't know,Yes,Don't know,Yes,Yes,Some of them,No,Maybe,Maybe,No,Very difficult
+1894,40.0,Male,Yes,Yes,Often,Yes,Don't know,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Yes,Don't know,Don't know
+1895,51.0,Male,No,No,,No,Don't know,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Somewhat difficult
+1896,33.0,Male,No,No,Never,No,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,No,No,Yes,Somewhat easy
+1897,34.0,Male,No,Yes,Sometimes,Yes,No,No,No,Yes,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Somewhat difficult
+1898,50.0,Male,No,No,Never,Yes,No,No,No,Yes,No,No,Some of them,Yes,No,Maybe,Yes,Somewhat easy
+1899,24.0,Male,No,No,Sometimes,Yes,Don't know,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,No,Somewhat easy
+1900,25.0,Male,Yes,Yes,Rarely,No,No,No,No,Don't know,Yes,Maybe,No,No,No,Maybe,No,Don't know
+1901,43.0,Male,Yes,Yes,Rarely,No,No,No,No,Don't know,Yes,Yes,Some of them,No,No,No,No,Very difficult
+1902,25.0,Female,No,Yes,Often,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Some of them,Some of them,No,No,Yes,Very easy
+1903,24.0,Male,No,No,,Yes,No,No,No,Yes,No,No,No,No,No,Maybe,Yes,Very easy
+1904,51.0,Male,No,No,Never,No,No,No,No,Yes,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,Somewhat difficult
+1905,49.0,Male,Yes,Yes,Sometimes,No,Yes,No,Yes,Yes,Yes,Maybe,No,No,No,Maybe,No,Somewhat difficult
+1906,30.0,Male,No,No,,Yes,Yes,Yes,Yes,Don't know,Yes,Maybe,No,No,No,No,Don't know,Don't know
+1907,25.0,Female,Yes,Yes,Sometimes,No,Yes,Yes,No,Don't know,Yes,Yes,No,No,No,No,No,Don't know
+1908,36.0,Male,No,Yes,Rarely,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,Don't know
+1909,48.0,Male,No,Yes,Never,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes,Yes,No,Maybe,Yes,Don't know
+1910,48.0,Male,No,Yes,Sometimes,No,No,No,No,Don't know,Yes,No,Some of them,No,No,Maybe,No,Somewhat easy
+1911,53.0,Male,No,Yes,Rarely,Yes,Yes,No,Yes,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,Don't know
+1912,24.0,Female,Yes,Yes,Often,Yes,No,No,No,Don't know,No,No,Yes,Yes,No,No,Don't know,Very easy
+1913,33.0,Male,Yes,Yes,Sometimes,No,Don't know,No,Yes,Don't know,No,No,Yes,Yes,No,No,Don't know,Somewhat easy
+1914,25.0,Female,Yes,Yes,Sometimes,No,Yes,No,No,Yes,No,No,Some of them,Yes,No,No,Don't know,Somewhat easy
+1915,30.0,Male,No,Yes,Sometimes,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,Maybe,No,Somewhat difficult
+1916,30.0,Male,No,No,Never,Yes,No,No,No,Yes,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,Somewhat easy
+1917,34.0,Male,No,Yes,Sometimes,Yes,No,No,No,Yes,No,No,Some of them,Some of them,No,No,Yes,Somewhat difficult
+1918,31.0,Male,No,No,,Yes,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,Maybe,Yes,Yes,Very easy
+1919,22.0,Female,Yes,Yes,Often,No,Don't know,No,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,Don't know
+1920,28.0,Male,Yes,No,Sometimes,No,Don't know,No,Don't know,Don't know,No,No,Some of them,Yes,No,Yes,Don't know,Somewhat easy
+1921,35.0,Male,Yes,Yes,Rarely,No,Yes,No,Yes,Yes,Maybe,No,Some of them,Some of them,No,No,No,Somewhat difficult
+1922,28.0,Male,Yes,Yes,Sometimes,No,Yes,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Yes,Don't know
+1923,42.0,Male,No,Yes,Sometimes,No,No,Don't know,No,Yes,Yes,Maybe,Some of them,Some of them,No,Yes,No,Somewhat difficult
+1924,33.0,Male,Yes,No,,No,Yes,Don't know,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Yes,Very easy
+1925,29.0,Male,No,No,Sometimes,No,Yes,Yes,No,Don't know,Yes,Maybe,No,No,No,No,Don't know,Don't know
+1926,43.0,Male,Yes,No,Sometimes,No,Yes,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,No,Don't know
+1927,29.0,Male,No,No,,No,Yes,Yes,Yes,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Yes,Somewhat easy
+1928,25.0,Male,No,No,,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Maybe,Maybe,Don't know,Don't know
+1929,31.0,Male,Yes,No,Never,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Very easy
+1930,35.0,Female,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,Somewhat difficult
+1931,34.0,Male,No,No,Often,No,Don't know,No,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,Very easy
+1932,43.0,Male,No,Yes,Sometimes,Yes,Yes,No,Yes,Yes,Yes,Maybe,Some of them,No,No,Maybe,No,Very difficult
+1933,38.0,Male,Yes,Yes,Sometimes,No,No,No,No,Don't know,Yes,Yes,No,Some of them,No,Maybe,No,Very difficult
+1934,26.0,Male,Yes,Yes,Sometimes,No,Don't know,No,Yes,Yes,Maybe,No,Some of them,Some of them,Yes,Yes,No,Very difficult
+1935,38.0,Male,Yes,Yes,Rarely,Yes,No,No,No,Yes,Maybe,No,No,No,No,No,No,Very difficult
+1936,42.0,Male,No,Yes,Often,No,Don't know,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,Don't know
+1937,33.0,Male,Yes,Yes,,No,Don't know,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,Don't know
+1938,32.0,Male,No,Yes,Rarely,No,Yes,Yes,Yes,Yes,Maybe,No,Some of them,Some of them,No,No,Don't know,Somewhat easy
+1939,44.0,Male,Yes,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Some of them,Yes,No,Maybe,No,Somewhat difficult
+1940,28.0,Male,Yes,Yes,Rarely,No,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,Don't know
+1941,40.0,Male,Yes,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,No,Some of them,Some of them,No,Maybe,Don't know,Very difficult
+1942,31.0,Female,Yes,Yes,Sometimes,No,Yes,No,Don't know,Yes,Maybe,No,Some of them,Yes,No,No,Yes,Somewhat easy
+1943,32.0,Male,Yes,No,Sometimes,No,Yes,Yes,Yes,Don't know,Yes,No,Some of them,No,No,No,Don't know,Don't know
+1944,28.0,Male,Yes,Yes,Sometimes,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,Somewhat easy
+1945,39.0,Male,Yes,Yes,Often,No,Yes,No,No,Yes,Yes,No,Some of them,No,No,No,No,Don't know
+1946,45.0,Male,No,No,,No,Yes,Yes,Yes,Don't know,No,No,Some of them,Some of them,No,No,Yes,Don't know
+1947,43.0,Male,No,Yes,Rarely,No,Yes,Yes,Yes,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,Somewhat easy
+1948,35.0,Male,No,Yes,Sometimes,No,Yes,Don't know,Yes,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Very difficult
+1949,40.0,Male,Yes,Yes,Sometimes,No,Yes,Don't know,Don't know,Yes,Maybe,No,Some of them,Some of them,No,No,Don't know,Very easy
+1950,34.0,Male,No,Yes,Rarely,No,No,No,No,Yes,No,No,Yes,Yes,Maybe,Maybe,Yes,Very easy
+1951,24.0,Male,Yes,Yes,Often,No,Don't know,No,No,No,Yes,Maybe,Some of them,Yes,No,Maybe,No,Somewhat easy
+1952,61.0,Male,No,Yes,Sometimes,Yes,No,No,No,Don't know,Yes,Maybe,Some of them,Yes,No,Maybe,No,Very difficult
+1953,36.0,Female,Yes,Yes,Rarely,No,Don't know,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,Don't know
+1954,38.0,Male,No,No,,No,No,No,No,Yes,Maybe,No,Some of them,Yes,Maybe,Maybe,Don't know,Don't know
+1955,33.0,Male,Yes,Yes,Often,No,Don't know,Yes,No,Yes,No,No,Some of them,Yes,Yes,Yes,Yes,Somewhat easy
+1956,30.0,Male,Yes,No,Never,No,Don't know,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,No,Don't know
+1957,34.0,Male,Yes,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Some of them,No,Maybe,Yes,Very easy
+1958,26.0,Male,No,Yes,Rarely,No,Yes,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,No,Don't know
+1959,33.0,Male,No,No,,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,Don't know
+1960,32.0,Male,No,No,,No,Don't know,No,No,Don't know,No,No,No,Yes,No,Maybe,No,Very easy
+1961,25.0,Male,No,No,Sometimes,Yes,No,No,No,Yes,No,No,Some of them,Yes,Yes,Yes,Yes,Somewhat easy
+1962,35.0,Male,No,Yes,Sometimes,Yes,Don't know,No,No,Don't know,Yes,Maybe,Yes,No,No,Maybe,Don't know,Somewhat difficult
+1963,24.0,Male,Yes,No,Often,Yes,Don't know,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Don't know
+1964,55.0,Male,No,Yes,Often,No,Yes,Yes,Yes,Don't know,Yes,Maybe,No,Some of them,No,Maybe,No,Somewhat easy
+1965,33.0,Male,Yes,Yes,Sometimes,Yes,No,No,No,No,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Very difficult
+1966,26.0,Female,Yes,Yes,Sometimes,Yes,No,No,No,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Yes,Very easy
+1967,25.0,Male,No,No,Never,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,Very easy
+1968,45.0,Male,Yes,No,Rarely,No,Don't know,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,Don't know
+1969,33.0,Female,No,Yes,Sometimes,Yes,No,Yes,Yes,Yes,No,No,Some of them,Yes,No,No,Don't know,Very easy
+1970,43.0,Male,No,No,Sometimes,Yes,No,No,No,Don't know,Yes,Maybe,No,No,No,Maybe,No,Very difficult
+1971,30.0,Male,No,Yes,Sometimes,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Very difficult
+1972,40.0,Male,Yes,Yes,Rarely,No,Don't know,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,Don't know
+1973,49.0,Male,Yes,No,Never,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Don't know
+1974,29.0,Male,No,No,,No,Don't know,No,No,Don't know,No,No,Some of them,Yes,Maybe,Yes,Don't know,Somewhat easy
+1975,26.0,Male,No,No,,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,Don't know
+1976,38.0,Male,No,No,Never,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,Somewhat easy
+1977,27.0,Male,Yes,No,,No,Yes,Don't know,No,Yes,Maybe,Maybe,No,Some of them,No,Maybe,Don't know,Somewhat easy
+1978,26.0,Male,No,No,Never,No,Yes,No,No,No,Maybe,No,No,No,No,No,Don't know,Somewhat easy
+1979,28.0,Male,Yes,Yes,Often,No,No,No,No,Don't know,Maybe,Maybe,Yes,Yes,No,No,No,Somewhat easy
+1980,40.0,Male,Yes,Yes,Sometimes,Yes,No,No,No,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,No,Don't know
+1981,37.0,Female,Yes,Yes,Rarely,Yes,No,No,No,Yes,Yes,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,Somewhat easy
+1982,34.0,Female,Yes,Yes,Often,Yes,Yes,No,Yes,No,Yes,Yes,Some of them,No,No,No,Don't know,Somewhat easy
+1983,28.0,Male,Yes,Yes,Often,No,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Don't know
+1984,27.0,Male,No,No,Never,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Maybe,Maybe,Yes,Very easy
+1985,29.0,Male,No,Yes,Sometimes,Yes,No,No,No,Don't know,No,No,Yes,Yes,No,Yes,Yes,Very easy
+1986,39.0,Female,Yes,No,Rarely,Yes,Don't know,No,No,Don't know,Yes,Yes,No,No,No,No,No,Somewhat difficult
+1987,28.0,Male,No,No,Often,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,Somewhat difficult
+1988,23.0,Male,Yes,No,Sometimes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Maybe,Don't know,Somewhat easy
+1989,32.25182186234818,Others,Yes,Yes,Often,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy
+1990,38.0,Male,No,No,,Yes,No,No,No,Yes,No,No,Some of them,Yes,No,No,Don't know,Somewhat easy
+1991,32.25182186234818,Male,No,No,,No,Yes,No,Yes,Don't know,No,No,Yes,Yes,No,No,Yes,Very easy
+1992,30.0,Female,Yes,Yes,Sometimes,No,Yes,Yes,Don't know,Yes,No,No,Some of them,No,No,No,Yes,Very easy
+1993,28.0,Male,No,No,,Yes,No,No,No,Yes,Maybe,Maybe,No,No,No,No,Yes,Very easy
+1994,20.0,Male,No,Yes,Sometimes,No,Don't know,No,No,Don't know,Yes,No,No,No,No,Maybe,Yes,Don't know
+1995,35.0,Male,No,No,Sometimes,No,Don't know,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Somewhat easy
+1996,39.0,Male,No,Yes,Rarely,Yes,Yes,No,No,Yes,Maybe,No,Some of them,Yes,No,No,Don't know,Very easy
+1997,31.0,Female,Yes,No,Never,No,Yes,No,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,Don't know
+1998,32.0,Male,No,No,Rarely,No,No,No,No,Don't know,Yes,No,No,No,No,No,Don't know,Don't know
+1999,27.0,Male,No,No,,No,No,No,No,Don't know,No,No,No,No,No,No,Don't know,Don't know
+2000,25.0,Male,Yes,Yes,Often,Yes,Yes,No,Don't know,Yes,No,No,Yes,Yes,Maybe,Maybe,Don't know,Somewhat easy
+2001,42.0,Male,Yes,Yes,Sometimes,Yes,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,Don't know
+2002,34.0,Male,Yes,Yes,Often,No,Yes,No,No,Yes,No,No,Yes,Yes,Maybe,Maybe,Don't know,Very easy
+2003,26.0,Female,No,Yes,Sometimes,Yes,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Maybe,Don't know,Don't know
+2004,35.0,Male,Yes,Yes,Sometimes,No,No,No,No,Yes,Yes,Yes,Some of them,Some of them,No,Maybe,Yes,Very easy
+2005,34.0,Male,No,No,Never,No,Don't know,No,Don't know,Don't know,Maybe,No,Yes,Yes,No,No,Yes,Very easy
+2006,38.0,Male,Yes,Yes,Sometimes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Don't know,Very easy
+2007,34.0,Male,No,No,Sometimes,No,Don't know,No,No,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,Don't know
+2008,39.0,Male,Yes,Yes,Sometimes,Yes,No,No,No,Yes,No,No,Some of them,Yes,Maybe,Yes,Yes,Somewhat easy
+2009,44.0,Female,No,No,,No,Don't know,No,No,Don't know,Yes,No,No,No,No,No,Don't know,Don't know
+2010,40.0,Male,No,No,,No,Yes,Yes,Yes,Yes,Maybe,No,No,Yes,No,No,Don't know,Don't know
+2011,33.0,Female,No,No,Never,Yes,No,Don't know,Don't know,Yes,Maybe,No,No,Some of them,No,No,Yes,Somewhat easy
+2012,24.0,Female,Yes,No,Sometimes,No,Yes,No,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,No,Somewhat difficult
+2013,38.0,Female,Yes,No,Sometimes,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Don't know
+2014,31.0,Male,No,No,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Maybe,Some of them,Some of them,No,Maybe,Yes,Don't know
+2015,23.0,Male,No,No,,No,Don't know,No,No,Yes,Maybe,No,Some of them,Yes,Maybe,Yes,Don't know,Very easy
+2016,26.0,Female,No,No,,No,Don't know,No,No,Don't know,No,No,Yes,Yes,No,Maybe,Yes,Somewhat easy
+2017,46.0,Others,No,Yes,Often,No,Yes,Yes,Yes,Don't know,Yes,No,Some of them,Some of them,No,No,No,Don't know
+2018,30.0,Male,Yes,Yes,Sometimes,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,Don't know
+2019,25.0,Male,No,No,Rarely,Yes,Don't know,No,No,Don't know,Yes,No,Some of them,Some of them,No,Yes,Don't know,Somewhat easy
+2020,32.25182186234818,Male,No,No,Never,Yes,Don't know,No,No,Don't know,No,No,Some of them,Some of them,No,Maybe,No,Somewhat easy
+2021,30.0,Female,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Some of them,Some of them,No,No,No,Somewhat easy
+2022,32.0,Male,No,No,Never,No,Yes,Yes,Yes,Don't know,No,No,Yes,Yes,No,Maybe,Yes,Somewhat easy
+2023,32.0,Male,No,No,,No,No,No,No,Don't know,Maybe,Maybe,No,No,No,Maybe,Don't know,Don't know
+2024,37.0,Male,Yes,No,Sometimes,Yes,Don't know,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,Somewhat easy
+2025,42.0,Male,Yes,Yes,Sometimes,Yes,Don't know,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Don't know
+2026,25.0,Female,No,No,Never,No,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,Maybe,No,Yes,Don't know
+2027,32.25182186234818,Male,No,No,Sometimes,No,Don't know,No,No,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,Don't know
+2028,40.0,Female,Yes,No,Never,Yes,Yes,Yes,No,Don't know,Yes,Yes,No,No,No,No,Don't know,Don't know
+2029,34.0,Male,No,No,,No,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Don't know,Don't know
+2030,26.0,Male,Yes,No,,No,Don't know,No,No,Don't know,No,No,Some of them,Yes,No,No,Yes,Don't know
+2031,31.0,Male,Yes,Yes,Rarely,No,Don't know,Don't know,Don't know,Yes,No,No,Yes,Yes,Maybe,Maybe,Yes,Don't know
+2032,40.0,Male,Yes,No,Sometimes,Yes,Yes,Yes,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Don't know
+2033,31.0,Female,Yes,Yes,Often,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Very difficult
+2034,36.0,Male,No,No,Never,No,Don't know,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,Don't know
+2035,35.0,Male,Yes,No,Sometimes,Yes,No,No,No,Don't know,Maybe,No,No,Some of them,No,No,Don't know,Don't know
+2036,26.0,Male,Yes,Yes,Sometimes,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Maybe,Yes,Don't know
+2037,44.0,Male,No,No,,Yes,Don't know,Don't know,Don't know,Yes,Yes,No,Some of them,No,No,No,No,Don't know
+2038,34.0,Female,No,No,Sometimes,No,No,No,No,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,Very easy
+2039,35.0,Male,No,No,,Yes,No,No,No,Don't know,No,No,No,No,No,No,Don't know,Don't know
+2040,28.0,Female,Yes,Yes,Sometimes,Yes,Don't know,No,No,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,Somewhat easy
+2041,33.0,Male,No,No,,Yes,Yes,Don't know,Yes,Yes,No,No,Some of them,Yes,No,No,Yes,Don't know
+2042,40.0,Male,Yes,Yes,Sometimes,Yes,Yes,No,Yes,Don't know,Yes,No,No,No,No,Maybe,Don't know,Don't know
+2043,26.0,Male,No,Yes,Sometimes,No,Yes,No,No,Yes,Maybe,No,Some of them,No,No,Maybe,Don't know,Don't know
+2044,29.0,Female,No,Yes,Often,No,Yes,No,No,Don't know,Maybe,No,Some of them,No,No,Yes,No,Don't know
+2045,26.0,Female,Yes,Yes,Sometimes,No,Yes,No,No,Yes,Maybe,No,Some of them,No,No,Maybe,Don't know,Don't know
+2046,33.0,Male,Yes,Yes,Sometimes,No,No,No,No,Don't know,No,No,Some of them,Yes,No,No,Don't know,Somewhat easy
+2047,28.0,Male,Yes,No,Sometimes,No,No,No,No,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Somewhat easy
+2048,41.0,Male,No,Yes,Often,Yes,No,Yes,Yes,Yes,No,No,Some of them,Some of them,No,No,Yes,Very difficult
+2049,39.0,Male,Yes,Yes,Sometimes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Maybe,Yes,Somewhat difficult
+2050,26.0,Female,Yes,Yes,Sometimes,No,Yes,No,No,Don't know,No,No,Some of them,Yes,No,Maybe,No,Don't know
+2051,23.0,Female,Yes,No,Sometimes,No,No,No,No,Don't know,Yes,No,No,Some of them,No,Maybe,No,Somewhat difficult
+2052,35.0,Male,Yes,Yes,Often,No,Don't know,No,No,Yes,No,No,Some of them,Some of them,No,Maybe,No,Very easy
+2053,36.0,Male,No,No,Never,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Very easy
+2054,42.0,Male,No,No,Rarely,No,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,Don't know
+2055,39.0,Male,Yes,Yes,Sometimes,No,Yes,No,Don't know,Yes,No,No,Some of them,Yes,No,No,Yes,Very easy
+2056,27.0,Male,No,No,Never,No,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Maybe,Don't know,Don't know
+2057,33.0,Male,No,No,Never,Yes,Don't know,No,No,No,Maybe,No,Some of them,Yes,No,Maybe,Yes,Very easy
+2058,31.0,Male,Yes,Yes,Often,No,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,Don't know
+2059,28.0,Female,No,Yes,Rarely,No,Yes,Don't know,Yes,Yes,No,No,Some of them,Some of them,No,Yes,Don't know,Very easy
+2060,29.0,Female,No,Yes,Often,Yes,Yes,No,No,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,Somewhat easy
+2061,27.0,Male,No,Yes,Sometimes,No,Don't know,No,No,Yes,Maybe,No,Some of them,No,No,Maybe,No,Very difficult
+2062,44.0,Male,No,No,Never,Yes,Don't know,No,No,Yes,No,No,No,No,No,No,Don't know,Somewhat difficult
+2063,25.0,Male,No,Yes,Often,Yes,Don't know,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,Somewhat easy
+2064,24.0,Male,Yes,Yes,Sometimes,No,No,No,No,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,Somewhat easy
+2065,25.0,Male,Yes,Yes,Often,No,Don't know,No,No,Yes,No,No,Some of them,Yes,No,Maybe,No,Don't know
+2066,34.0,Male,No,No,Never,Yes,Yes,Don't know,Don't know,Don't know,Maybe,Maybe,No,Some of them,No,Maybe,Don't know,Somewhat easy
+2067,26.0,Male,No,No,Never,No,Yes,No,Don't know,Don't know,Maybe,No,No,Yes,No,No,Don't know,Somewhat difficult
+2068,48.0,Male,No,No,Never,No,Yes,Yes,Yes,Yes,Maybe,No,Some of them,Yes,No,Maybe,Don't know,Don't know
+2069,34.0,Male,No,No,,Yes,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,Maybe,No,Very difficult
+2070,39.0,Female,No,Yes,Sometimes,Yes,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,Don't know
+2071,43.0,Male,No,No,Sometimes,Yes,Yes,No,Yes,Don't know,Maybe,No,No,No,No,No,Don't know,Don't know
+2072,41.0,Male,No,No,Rarely,No,Yes,Yes,Yes,Don't know,Maybe,Maybe,Some of them,No,No,No,Yes,Don't know
+2073,25.0,Male,No,No,Never,No,Don't know,No,No,Don't know,No,No,Some of them,Yes,No,No,Don't know,Don't know
+2074,31.0,Male,No,Yes,Sometimes,No,Yes,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,No,Somewhat easy
+2075,40.0,Male,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Maybe,No,Don't know
+2076,43.0,Male,Yes,Yes,Sometimes,Yes,Yes,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Don't know
+2077,27.0,Female,Yes,Yes,Often,No,Yes,Yes,Yes,Yes,Maybe,No,Yes,Some of them,No,Maybe,No,Very difficult
+2078,37.0,Female,Yes,Yes,Sometimes,Yes,Yes,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,Don't know
+2079,32.0,Male,No,Yes,Sometimes,No,No,No,No,Yes,Maybe,No,Some of them,Yes,No,Maybe,No,Very difficult
+2080,25.0,Male,Yes,Yes,Often,No,No,No,No,Yes,Maybe,No,Yes,Yes,No,Maybe,No,Very easy
+2081,29.0,Male,Yes,Yes,Often,No,Don't know,Don't know,Yes,Don't know,No,Maybe,Yes,Yes,Maybe,No,Yes,Very difficult
+2082,30.0,Female,Yes,Yes,Often,No,Yes,No,No,Don't know,Yes,No,No,No,No,Maybe,No,Somewhat difficult
+2083,34.0,Female,Yes,Yes,Often,No,Don't know,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Yes,Somewhat easy
+2084,32.0,Male,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,Somewhat easy
+2085,37.0,Male,No,No,,No,Don't know,No,No,Yes,No,No,Yes,Yes,Maybe,Maybe,Yes,Very easy
+2086,41.0,Male,No,Yes,Sometimes,No,Don't know,No,No,Don't know,No,No,Yes,Yes,No,No,Yes,Somewhat difficult
+2087,38.0,Male,Yes,No,Never,No,Yes,Yes,Yes,Don't know,Yes,Maybe,Some of them,No,No,No,No,Don't know
+2088,32.0,Male,No,Yes,Sometimes,No,Yes,Yes,Don't know,Yes,No,No,Some of them,Yes,No,Maybe,Don't know,Don't know
+2089,28.0,Female,Yes,Yes,Sometimes,No,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,Don't know
+2090,32.25182186234818,Male,No,No,Never,Yes,No,No,No,Yes,No,No,Some of them,Some of them,No,Maybe,Yes,Very easy
+2091,43.0,Male,Yes,No,Never,No,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,Somewhat easy
+2092,32.0,Male,Yes,Yes,Often,No,No,No,No,Don't know,Yes,No,Yes,Yes,No,Yes,No,Very difficult
+2093,25.0,Male,No,Yes,Sometimes,No,Yes,Yes,Don't know,Yes,Yes,No,No,No,No,No,Yes,Don't know
+2094,37.0,Male,No,Yes,Sometimes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,Very easy
+2095,36.0,Male,No,Yes,Sometimes,No,No,No,No,No,No,No,No,No,No,No,No,Very difficult
+2096,24.0,Male,Yes,Yes,Rarely,Yes,Don't know,No,No,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,Very easy
+2097,40.0,Male,Yes,Yes,Sometimes,No,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Somewhat difficult
+2098,29.0,Male,No,No,,No,Don't know,Yes,Don't know,Yes,No,No,Some of them,Yes,No,Maybe,Yes,Somewhat easy
+2099,43.0,Male,No,No,Never,No,Don't know,No,Don't know,Don't know,No,No,Yes,Some of them,No,No,Yes,Don't know
+2100,29.0,Male,No,No,,Yes,Yes,No,Yes,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,Don't know,Don't know
+2101,26.0,Male,Yes,No,Sometimes,No,Don't know,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,Don't know
+2102,33.0,Female,Yes,Yes,Often,Yes,No,No,No,No,Yes,Yes,No,No,No,Maybe,No,Very difficult
+2103,35.0,Female,Yes,No,Sometimes,Yes,Don't know,No,No,Don't know,No,No,Yes,Some of them,No,No,Yes,Somewhat easy
+2104,45.0,Male,No,No,Never,Yes,Yes,No,No,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,Don't know
+2105,25.0,Male,No,Yes,Rarely,Yes,No,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,Somewhat easy
+2106,50.0,Male,No,Yes,Sometimes,Yes,No,No,No,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Don't know,Don't know
+2107,26.0,Male,Yes,Yes,Rarely,No,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,Very easy
+2108,33.0,Female,No,Yes,Often,No,Yes,Don't know,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,Don't know
+2109,30.0,Male,No,No,Often,No,No,No,No,No,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,Very easy
+2110,33.0,Male,Yes,Yes,Sometimes,Yes,Yes,No,Don't know,Yes,No,No,Some of them,Yes,Maybe,Maybe,Yes,Very easy
+2111,29.0,Male,No,Yes,Often,No,Yes,No,No,Yes,Maybe,Maybe,Yes,Some of them,No,Yes,No,Somewhat easy
+2112,37.0,Male,No,No,,Yes,No,No,No,Don't know,Maybe,No,Some of them,No,Maybe,Yes,Don't know,Don't know
+2113,25.0,Male,Yes,Yes,Sometimes,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Don't know,Very easy
+2114,40.0,Male,No,No,,No,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Somewhat easy
+2115,24.0,Male,No,No,Sometimes,No,Yes,No,No,Yes,Maybe,No,No,No,No,Maybe,Don't know,Don't know
+2116,40.0,Male,No,Yes,Never,No,Don't know,No,Don't know,Don't know,Maybe,No,Yes,Some of them,No,Maybe,Don't know,Very easy
+2117,46.0,Male,Yes,Yes,Sometimes,No,Don't know,No,Don't know,Don't know,Yes,Maybe,No,Some of them,No,Maybe,Don't know,Don't know
+2118,38.0,Male,Yes,Yes,Rarely,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Don't know,Somewhat easy
+2119,34.0,Male,No,No,Never,Yes,No,No,No,Don't know,Yes,Yes,No,No,No,No,Don't know,Don't know
+2120,32.0,Male,No,Yes,Rarely,No,No,Yes,Yes,Yes,No,No,Some of them,Yes,No,Yes,No,Very easy
+2121,44.0,Male,No,Yes,Sometimes,No,No,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,No,Don't know
+2122,33.0,Female,No,Yes,Never,No,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,Very easy
+2123,45.0,Female,No,Yes,Rarely,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,Don't know
+2124,35.0,Male,No,No,,No,Don't know,Don't know,Don't know,Yes,No,No,No,No,No,No,Yes,Don't know
+2125,26.0,Male,Yes,Yes,Often,No,No,No,No,Don't know,Maybe,No,Yes,Yes,Maybe,Yes,No,Don't know
+2126,20.0,Female,No,Yes,Sometimes,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,Don't know
+2127,32.25182186234818,Others,Yes,Yes,Often,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy
+2128,37.0,Male,Yes,No,Sometimes,No,No,No,No,Yes,Maybe,No,Some of them,Yes,No,Maybe,Yes,Somewhat easy
+2129,28.0,Male,No,No,,No,Yes,No,No,Yes,Maybe,No,No,No,No,Yes,No,Somewhat easy
+2130,42.0,Female,Yes,Yes,Sometimes,No,Yes,No,No,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,Don't know
+2131,32.0,Male,No,No,,No,No,No,No,Don't know,Maybe,No,No,No,No,No,Don't know,Don't know
+2132,36.0,Female,Yes,Yes,Rarely,Yes,Yes,No,No,Yes,Maybe,Maybe,Some of them,No,No,No,Don't know,Somewhat easy
+2133,27.0,Male,No,No,Rarely,No,No,No,Yes,No,Yes,No,No,No,No,Maybe,No,Somewhat difficult
+2134,27.0,Male,No,No,Rarely,No,No,No,Yes,No,Yes,No,No,No,No,Maybe,No,Somewhat difficult
+2135,27.0,Male,No,Yes,Sometimes,No,No,No,No,Yes,Maybe,No,Yes,Yes,Maybe,Maybe,No,Somewhat easy
+2136,25.0,Male,Yes,Yes,Sometimes,Yes,No,No,No,Yes,No,No,Some of them,Yes,No,Maybe,Yes,Very easy
+2137,41.0,Male,Yes,No,,No,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,Somewhat difficult
+2138,23.0,Male,Yes,Yes,Sometimes,No,Don't know,No,No,Don't know,Maybe,No,No,No,No,No,Don't know,Somewhat easy
+2139,21.0,Male,No,Yes,Sometimes,No,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,Don't know
+2140,26.0,Male,No,Yes,Often,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Don't know,Very difficult
+2141,29.0,Male,No,No,Rarely,No,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,No,Yes,Don't know,Don't know
+2142,28.0,Male,No,No,Sometimes,No,No,No,No,Don't know,Yes,Maybe,No,No,No,No,Don't know,Somewhat easy
+2143,27.0,Female,Yes,No,,No,No,No,No,Yes,Maybe,No,No,No,No,Yes,Yes,Don't know
+2144,23.0,Male,No,No,Never,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Somewhat difficult
+2145,26.0,Female,Yes,No,Sometimes,Yes,Don't know,No,No,Don't know,Maybe,No,No,No,No,No,Don't know,Don't know
+2146,38.0,Male,Yes,Yes,Sometimes,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Yes,Don't know,Very easy
+2147,39.0,Male,Yes,Yes,Sometimes,No,No,No,No,Yes,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Yes,Very easy
+2148,35.0,Male,Yes,Yes,Often,No,Yes,No,Yes,Don't know,Yes,No,No,Some of them,No,Yes,Don't know,Somewhat easy
+2149,32.0,Male,No,No,Rarely,No,Yes,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,Don't know
+2150,32.0,Male,No,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Somewhat difficult
+2151,26.0,Male,No,No,Never,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,Don't know
+2152,38.0,Male,Yes,Yes,Rarely,No,Don't know,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,No,Don't know
+2153,34.0,Female,Yes,No,Rarely,No,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,Maybe,Maybe,Yes,Very easy
+2154,39.0,Male,Yes,Yes,Often,No,Don't know,No,No,Don't know,Yes,No,Some of them,Some of them,No,Maybe,Don't know,Somewhat easy
+2155,32.0,Male,No,No,Never,Yes,Don't know,No,No,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,Very easy
+2156,37.0,Male,No,No,Never,Yes,Don't know,Don't know,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,No,Don't know,Very easy
+2157,31.0,Male,Yes,Yes,Never,No,Don't know,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Somewhat easy
+2158,30.0,Male,Yes,Yes,Rarely,No,No,No,No,Don't know,No,No,No,No,No,No,Don't know,Don't know
+2159,51.0,Male,No,No,Never,Yes,Don't know,No,Don't know,Don't know,Yes,No,No,No,No,No,No,Don't know
+2160,29.0,Male,No,Yes,Sometimes,No,Yes,No,No,Don't know,Yes,No,Some of them,Some of them,No,Maybe,Don't know,Don't know
+2161,31.0,Male,No,No,Never,No,Yes,No,Yes,Don't know,Maybe,Yes,Some of them,No,No,No,Yes,Don't know
+2162,31.0,Male,No,No,,No,Don't know,No,No,Don't know,Yes,Yes,No,No,No,No,Don't know,Don't know
+2163,26.0,Male,Yes,Yes,Sometimes,Yes,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,Somewhat easy
+2164,46.0,Female,No,Yes,Often,Yes,Yes,No,No,Yes,Maybe,No,Some of them,Some of them,No,Maybe,No,Don't know
+2165,32.0,Male,Yes,No,Sometimes,No,Yes,Yes,Don't know,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,Don't know
+2166,29.0,Male,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,Don't know
+2167,34.0,Male,No,No,Never,Yes,Don't know,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Don't know
+2168,26.0,Male,No,No,Often,No,No,No,No,No,Yes,No,No,No,No,Maybe,Yes,Very difficult
+2169,32.0,Female,No,Yes,Sometimes,No,Yes,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,Don't know
+2170,29.0,Male,No,No,,No,Don't know,No,No,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,No,Don't know
+2171,30.0,Male,No,No,,No,Yes,Yes,Yes,Don't know,Yes,Maybe,No,No,No,No,Don't know,Don't know
+2172,40.0,Female,Yes,Yes,Sometimes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Maybe,Yes,Somewhat easy
+2173,23.0,Male,No,Yes,Sometimes,No,No,No,No,Don't know,Maybe,No,Yes,Yes,Yes,Yes,No,Very difficult
+2174,20.0,Male,No,No,Rarely,No,No,No,No,Don't know,Yes,Yes,Some of them,No,No,Maybe,No,Very difficult
+2175,38.0,Male,Yes,No,,No,Don't know,No,No,Don't know,No,No,Some of them,Yes,No,No,Don't know,Somewhat difficult
+2176,26.0,Female,Yes,Yes,Rarely,No,Yes,No,No,Don't know,Maybe,Maybe,No,No,No,Maybe,No,Don't know
+2177,29.0,Male,No,No,Never,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,Yes,No,Don't know
+2178,40.0,Male,No,No,Sometimes,Yes,No,No,No,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,Somewhat easy
+2179,25.0,Female,No,Yes,Sometimes,Yes,No,No,No,Don't know,Maybe,Maybe,Yes,Some of them,Maybe,No,No,Don't know
+2180,32.0,Female,No,Yes,Sometimes,No,Yes,No,No,Yes,Maybe,Maybe,Some of them,No,No,No,No,Don't know
+2181,38.0,Male,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,No,Some of them,No,No,Maybe,No,Don't know
+2182,72.0,Female,Yes,Yes,Never,Yes,Yes,Don't know,Yes,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Don't know,Somewhat easy
+2183,35.0,Female,Yes,Yes,Sometimes,Yes,No,No,No,Yes,Maybe,Maybe,Some of them,Some of them,No,No,Yes,Don't know
+2184,28.0,Female,No,Yes,Often,No,No,No,No,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,Very difficult
+2185,27.0,Female,No,No,Never,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Yes,Don't know
+2186,56.0,Female,No,No,Rarely,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,No,No,Don't know,Don't know
+2187,38.0,Male,Yes,Yes,Sometimes,Yes,Yes,No,No,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,Don't know
+2188,31.0,Female,No,No,,No,Don't know,No,No,Yes,Maybe,No,Some of them,Some of them,No,No,Don't know,Very easy
+2189,40.0,Male,Yes,Yes,Sometimes,No,Yes,No,No,Yes,Maybe,No,Some of them,No,No,No,Yes,Don't know
+2190,44.0,Male,Yes,Yes,Sometimes,No,Yes,No,Yes,Yes,Maybe,No,Some of them,Some of them,No,No,Don't know,Don't know
+2191,34.0,Male,Yes,No,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,No,No,No,No,Maybe,Don't know,Don't know
+2192,37.0,Male,No,No,Never,Yes,Don't know,No,No,Don't know,No,No,Some of them,Yes,No,Yes,Don't know,Somewhat easy
+2193,38.0,Male,No,No,Never,No,Don't know,Don't know,Don't know,Yes,No,No,Some of them,Yes,Yes,Maybe,No,Don't know
+2194,27.0,Male,No,No,,No,Don't know,No,No,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,Don't know
+2195,34.0,Female,No,Yes,Sometimes,No,Yes,Yes,No,Yes,Yes,Yes,Some of them,Some of them,No,No,Yes,Don't know
+2196,35.0,Female,No,No,Rarely,No,Don't know,No,No,No,Maybe,No,Some of them,No,No,Maybe,No,Don't know
+2197,34.0,Male,No,Yes,Often,No,No,No,No,Don't know,Yes,Maybe,Some of them,Yes,No,Maybe,No,Somewhat difficult
+2198,32.0,Male,No,Yes,Often,Yes,Yes,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,Very difficult
+2199,25.0,Male,No,No,,No,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,Don't know
+2200,28.0,Male,No,Yes,Often,Yes,No,No,No,Don't know,Yes,No,No,No,No,Maybe,No,Don't know
+2201,28.0,Female,No,Yes,Rarely,No,Yes,No,No,Don't know,Yes,Yes,Some of them,No,No,No,No,Somewhat easy
+2202,31.0,Male,No,Yes,,No,No,No,No,No,No,No,Yes,Yes,No,Maybe,Don't know,Don't know
+2203,24.0,Male,No,No,,No,Don't know,No,No,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,Don't know,Somewhat easy
+2204,34.0,Male,Yes,Yes,Never,Yes,No,No,No,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,Don't know
+2205,32.0,Male,No,Yes,Sometimes,No,No,No,No,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,Somewhat easy
+2206,34.0,Male,Yes,No,Often,Yes,Don't know,No,No,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,Somewhat easy
+2207,23.0,Male,No,Yes,Sometimes,No,No,No,No,No,Maybe,Maybe,Some of them,Yes,No,No,No,Very easy
+2208,33.0,Male,Yes,No,Often,No,No,No,No,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,Somewhat easy
+2209,29.0,Male,Yes,Yes,Sometimes,No,Don't know,No,No,Don't know,Maybe,No,No,No,No,Maybe,No,Somewhat difficult
+2210,24.0,Male,Yes,No,,No,No,No,No,Don't know,Maybe,Maybe,No,No,No,No,Don't know,Don't know
+2211,45.0,Male,No,No,Never,Yes,Don't know,No,No,Don't know,Yes,No,Yes,Some of them,No,No,No,Don't know
+2212,34.0,Female,No,Yes,Sometimes,No,No,No,Yes,Yes,Maybe,Maybe,Some of them,Yes,No,Maybe,No,Somewhat difficult
+2213,31.0,Male,No,No,Sometimes,No,Don't know,No,No,Don't know,Yes,Yes,Some of them,No,No,Maybe,No,Very difficult
+2214,33.0,Male,No,Yes,Often,Yes,Yes,No,No,Yes,Maybe,No,Some of them,No,No,Maybe,Don't know,Don't know
+2215,28.0,Male,No,No,,No,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Somewhat easy
+2216,27.0,Male,No,No,Rarely,Yes,Don't know,No,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,Don't know
+2217,42.0,Male,No,No,Never,No,No,No,No,No,Yes,Yes,Some of them,Some of them,No,No,No,Somewhat difficult
+2218,28.0,Male,No,No,,No,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Somewhat easy
+2219,38.0,Male,No,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Don't know,Very easy
+2220,46.0,Male,Yes,Yes,Often,No,Don't know,No,No,Don't know,Maybe,No,Some of them,No,No,No,No,Don't know
+2221,46.0,Male,Yes,Yes,Sometimes,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,Don't know
+2222,41.0,Female,No,Yes,Rarely,Yes,Don't know,Don't know,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy
+2223,23.0,Male,No,No,Never,No,Don't know,No,No,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Yes,Somewhat easy
+2224,24.0,Male,Yes,Yes,Sometimes,No,Yes,No,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Yes,Somewhat easy
+2225,23.0,Female,No,Yes,Rarely,No,No,Yes,No,Don't know,No,No,Yes,Some of them,No,Maybe,Don't know,Don't know
+2226,39.0,Male,No,No,,No,Yes,Yes,Don't know,Don't know,Maybe,Maybe,No,Some of them,No,No,Yes,Somewhat easy
+2227,32.0,Female,Yes,No,Never,No,Yes,Don't know,Yes,Yes,Maybe,No,Some of them,Some of them,No,No,Don't know,Don't know
+2228,25.0,Male,Yes,Yes,Sometimes,No,Don't know,No,No,Don't know,Yes,No,Some of them,Some of them,No,Maybe,Don't know,Somewhat easy
+2229,39.0,Male,No,No,,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Don't know,Don't know
+2230,23.0,Female,Yes,Yes,Sometimes,No,No,No,Yes,Yes,No,No,Yes,Yes,Maybe,Maybe,Yes,Very easy
+2231,24.0,Male,No,Yes,Sometimes,Yes,No,No,No,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Don't know
+2232,25.0,Male,Yes,Yes,Sometimes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Very easy
+2233,23.0,Male,No,Yes,Rarely,No,No,No,No,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,Don't know
+2234,24.0,Male,No,Yes,Sometimes,No,Don't know,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,Don't know
+2235,23.0,Male,No,Yes,Often,No,Yes,Yes,Don't know,Don't know,Maybe,No,Yes,Some of them,No,No,Don't know,Don't know
+2236,60.0,Male,No,Yes,Often,Yes,Don't know,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,Somewhat easy
+2237,28.0,Male,No,No,Sometimes,No,No,No,No,Yes,Yes,Maybe,No,No,No,No,No,Don't know
+2238,28.0,Male,Yes,Yes,Often,No,Yes,Yes,Yes,Yes,Yes,Maybe,Some of them,Yes,No,No,No,Somewhat easy
+2239,30.0,Male,No,No,Sometimes,No,Don't know,No,No,Don't know,Maybe,No,Yes,Yes,Maybe,Yes,Don't know,Don't know
+2240,31.0,Male,Yes,Yes,Sometimes,No,Don't know,No,No,Yes,No,No,Some of them,No,No,No,Don't know,Somewhat easy
+2241,31.0,Male,No,Yes,Often,Yes,No,No,No,Don't know,Maybe,No,Some of them,No,No,No,Don't know,Somewhat easy
+2242,28.0,Male,No,Yes,Rarely,No,Don't know,No,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,Don't know
+2243,43.0,Female,Yes,Yes,Rarely,Yes,Yes,No,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,Don't know
+2244,32.0,Female,No,No,,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Yes,No,Don't know
+2245,22.0,Male,Yes,Yes,Often,No,Yes,Yes,Yes,Yes,Maybe,Maybe,No,Yes,No,Maybe,Don't know,Don't know
+2246,32.0,Male,No,No,Never,No,Yes,Don't know,Yes,Don't know,No,No,No,Some of them,Maybe,Yes,Don't know,Somewhat easy
+2247,36.0,Male,No,Yes,Often,No,No,No,No,No,Yes,No,Some of them,No,No,Maybe,Don't know,Very difficult
+2248,41.0,Female,Yes,Yes,Sometimes,No,Yes,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,Don't know
+2249,30.0,Male,Yes,Yes,Sometimes,No,Yes,Don't know,No,Yes,No,No,Yes,Yes,Maybe,Maybe,Yes,Very easy
+2250,30.0,Male,Yes,Yes,Often,No,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,Don't know
+2251,36.0,Male,Yes,Yes,Often,No,No,No,No,Don't know,No,No,Some of them,Yes,No,Yes,Yes,Somewhat easy
+2252,29.0,Male,Yes,Yes,Sometimes,Yes,Yes,Yes,No,Yes,Yes,No,Some of them,No,No,Maybe,No,Don't know
+2253,36.0,Male,Yes,No,Rarely,No,Don't know,Yes,Yes,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Somewhat easy
+2254,26.0,Male,No,Yes,,No,No,No,No,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Somewhat easy
+2255,32.0,Male,Yes,Yes,Often,Yes,Yes,No,No,Yes,No,No,Some of them,Yes,No,No,Yes,Somewhat difficult
+2256,34.0,Male,Yes,Yes,Sometimes,No,Yes,No,No,Don't know,Yes,Yes,No,No,No,No,No,Somewhat difficult
+2257,46.0,Female,No,No,,Yes,No,No,No,Don't know,Yes,No,No,No,No,No,No,Don't know
+2258,25.0,Male,Yes,Yes,Sometimes,No,Yes,No,No,Yes,Maybe,No,Some of them,No,No,No,Don't know,Don't know
